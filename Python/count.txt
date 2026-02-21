@@ -1,0 +1,4 @@
+Since we were just looking at Python code,
+ here is the quickest way to check if a 
+ string containing spaces is a palindrome.
+  It uses a technique called string slicing
