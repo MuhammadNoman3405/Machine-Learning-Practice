@@ -1,0 +1,5 @@
+The fundamental mechanic that distinguishes a generator function from a conventional Python function is the deployment of the yield keyword.
+ In a standard Python function, execution begins at the first line and proceeds sequentially until it encounters a return statement or reaches the end of the block. 
+ When a function executes a return statement, it terminates entirely; its local variable scope is completely destroyed, its stack frame is popped off the call stack, and control is handed back to the calling environment along with the returned value.
+  If that function needs to be executed again, it must start entirely from scratch, with no memory or awareness of its previous state.
+   A generator function, however, behaves fundamentally differently because the presence of the yield keyword alters how the Python interpreter compiles and executes the underlying code block.
