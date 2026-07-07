@@ -1,0 +1,184 @@
+EmployeeID,Name,Department,JobTitle,ManagerID,City,EmploymentType,BirthDate,JoinDate,Salary_PKR,PerformanceRating,Skills,Email
+E1171,Faisal Farooq,Customer Support,Support Team Lead,E1137,Rawalpindi,Part-Time,1985-01-26,2021-10-08,58900.0,3.7,Data Analysis,faisal.farooq@company.com
+E1130,Areeba Raza,Engineering,QA Engineer,E1101,Lahore,Contract,1988-10-11,23/11/2022,193600.0,5.0,Leadership,areeba.raza@company.com
+E1177,Junaid Farooq,Sales,Sales Executive,E1103,Multan,Contract,1975-07-21,2022-12-22,94900.0,,"Accounting, Data Analysis, Python, React",junaid.farooq@company.com
+E1000,Iqra Iqbal,Sales,Sales Executive,,Islamabad,Part-Time,1981-02-10,05-May-2023,93000.0,4.2,SEO,iqra.iqbal@company.com
+E1054,Zainab Khan,Engineering,Senior Software Engineer,E1018,Karachi,Contract,1977-09-28,27/08/2020,138200.0,3.9,"Accounting, Customer Service, React",zainab.khan@company.com
+E1029,Ali Javed,Finance,Financial Analyst,E1023,Faisalabad,Contract,1978-12-28,06/11/2021,86800.0,4.5,"Cloud, Communication, Negotiation, Photoshop",ali.javed@company.com
+E1056,Salman Farooq,Marketing,Marketing Specialist,E1003,Multan,Part-Time,1987-10-09,2018-05-12,87600.0,3.1,Photoshop,salman.farooq@company.com
+E1170,Omar Sheikh,HR,HR Manager,,multan,Full-Time,1983-10-01,2020-12-07,79900.0,3.6,"Accounting, Data Analysis, Python",omar.sheikh@company.com
+E1139,Sara Chaudhry,Finance,Accountant,E1135,Faisalabad,Full-Time,1988-01-03,08/08/2021,84800.0,3.0,"Communication, Excel, PowerBI, React",sara.chaudhry@company.com
+E1025,Faisal Farooq,Engineering,DevOps Engineer,E1002,Rawalpindi,Contract,1983-10-05,10-Sep-2020,111100.0,4.3,"Data Analysis, PowerBI, Project Management",
+E1150,Rizwan Sheikh,Customer Support,Support Team Lead,E1021,Multan,Contract,1999-05-01,26-Dec-2019,88400.0,4.0,"Accounting, Data Analysis, Project Management",rizwan.sheikh@company.com
+E1003,Shahzaib Khan,Operations,Operations Manager,,islamabad,Contract,1999-10-20,2023-12-15,98900.0,,"PowerBI, Python",shahzaib.khan@company.com
+E1061,Mahnoor Chaudhry,Sales,Sales Executive,E1020,Rawalpindi,Full-Time,1985-07-22,28-Sep-2021,99500.0,3.9,"Cloud, Customer Service, Leadership",mahnoor.chaudhry@company.com
+E1101,Sidra Sheikh,HR,HR Executive,E1071,Multan,Contract,1985-02-17,18-Aug-2021,-86000.0,2.8,"Accounting, Cloud, Python",sidra.sheikh@company.com
+E1042,Danish Butt,Engineering,QA Engineer,E1009,Multan,Part-Time,1982-08-14,08/05/2022,173900.0,,"Cloud, Customer Service, Python, React",danish.butt@company.com
+E1016,Usman Iqbal,Marketing,Content Writer,E1002,Rawalpindi,Part-Time,1978-08-23,2019-08-12,106000.0,3.7,"Excel, Java, Leadership",usman.iqbal@company.com
+E1169,Danish Farooq,Finance,Finance Manager,E1113,Karachi,Contract,1991-05-21,04/07/2021,85600.0,4.0,"Customer Service, Python",danish.farooq@company.com
+E1052,Amna Chaudhry,HR,HR Executive,E1002,Faisalabad,Full-Time,1980-01-10,30/03/2020,83300.0,3.6,Excel,amna.chaudhry@company.com
+E1098,Hassan Chaudhry,Customer Support,Support Agent,E1024,Karachi,Full-Time,1990-02-01,2020-10-01,,2.6,Photoshop,
+E1118,Zeeshan Farooq,Marketing,SEO Analyst,E1107,Rawalpindi,Full-Time,1983-08-02,30-Jan-2022,104800.0,3.7,"Customer Service, Leadership",zeeshan.farooq@company.com
+E1041,Mahnoor Raza,HR,HR Executive,E1033,Faisalabad,Contract,1990-10-17,23-Jul-2021,97200.0,3.8,"Communication, Photoshop, Project Management, React",mahnoor.raza@company.com
+E1165,Danish Chaudhry,Customer Support,Support Agent,E1151,Rawalpindi,Contract,1980-12-21,19-Jul-2022,80000.0,3.3,Communication,danish.chaudhry@company.com
+E1124,Laiba Iqbal,Operations,Operations Executive,E1058,Rawalpindi,Full-Time,1989-10-08,29/03/2019,89500.0,3.3,"Customer Service, React",laiba.iqbal@company.com
+E1144,Komal Khan,Finance,Finance Manager,E1096,Multan,Full-Time,1981-02-01,2019-11-13,101500.0,3.8,"Cloud, PowerBI",komal.khan@company.com
+E1026,Omar Khan,Finance,Accountant,E1011,Rawalpindi,Full-Time,1987-07-04,27-Jan-2019,102800.0,3.3,"Java, Leadership",omar.khan@company.com
+E1053,Hassan Siddiqui,Finance,Accountant,E1033,Islamabad,Contract,1994-11-23,2018-04-01,81200.0,4.1,"Java, Project Management, SEO",hassan.siddiqui@company.com
+E1122,Sidra Javed,HR,HR Manager,E1079,Rawalpindi,Part-Time,1990-07-13,23-Sep-2020,68600.0,4.9,"PowerBI, Project Management, Python, SQL",sidra.javed@company.com
+E1055,Talha Javed,Engineering,Software Engineer,E1020,Rawalpindi,Part-Time,1993-04-14,22/12/2020,138200.0,4.6,"Excel, Negotiation, React",talha.javed@company.com
+E1046,Rizwan Khan,Finance,Accountant,E1029,Faisalabad,Part-Time,1981-01-22,08/07/2023,103200.0,4.1,"Communication, Java, Leadership, Project Management",rizwan.khan@company.com
+E1094,Kamran Butt,Finance,Finance Manager,E1093,Multan,Full-Time,1979-06-12,08-Feb-2018,104200.0,3.0,"Cloud, Negotiation, React, SEO",
+E1011,Sadia Butt,Engineering,QA Engineer,E1006,Multan,Contract,2001-10-09,16-Dec-2019,127400.0,3.4,Java,sadia.butt@company.com
+E1022,Hassan Raza,HR,HR Manager,,Faisalabad,Part-Time,1978-10-15,2018-05-31,95400.0,3.6,Java,hassan.raza@company.com
+E1036,Usman Butt,Operations,Operations Executive,E1015,Karachi,Full-Time,1984-02-01,17/04/2018,90000.0,4.5,"Customer Service, React, SEO",usman.butt@company.com
+E1073,Faisal Chaudhry,Engineering,QA Engineer,E1000,Karachi,Part-Time,1984-10-02,2023-12-22,149400.0,3.9,"Accounting, Cloud, React",faisal.chaudhry@company.com
+E1103,Nimra Farooq,Customer Support,Support Agent,E1081,Islamabad,Full-Time,1976-10-26,2018-02-01,85500.0,3.6,"Negotiation, Project Management",nimra.farooq@company.com
+E1141,Bilal Chaudhry,Customer Support,Support Team Lead,E1106,lahore,Part-Time,1984-03-23,08/04/2022,65800.0,4.2,"Cloud, Negotiation, Python",bilal.chaudhry@company.com
+E1088,Talha Chaudhry,Finance,Accountant,E1040,Rawalpindi,Full-Time,2001-11-19,2024-03-18,101300.0,3.9,"Cloud, Java, React, SQL",talha.chaudhry@company.com
+E1087,Kinza Sheikh,HR,Recruiter,E1024,Rawalpindi,Contract,1988-12-05,26/07/2022,64600.0,3.8,Accounting,kinza.sheikh@company.com
+E1113,Hina Chaudhry,Sales,Sales Manager,E1016,Lahore,Full-Time,1995-02-14,03/06/2020,96200.0,4.0,"Data Analysis, Java",hina.chaudhry@company.com
+E1143,Iqra Chaudhry,Finance,Finance Manager,E1077,Faisalabad,Part-Time,1978-08-09,2018-12-23,114700.0,4.4,Data Analysis,
+E1009,Faisal Malik,Marketing,Marketing Specialist,E1000,Multan,Full-Time,1979-03-12,2018-07-20,98900.0,3.6,Communication,faisal.malik@company.com
+E1060,Rabia Khan,Finance,Financial Analyst,E1017,Lahore,Full-Time,1991-10-26,29/06/2021,96000.0,4.2,"Accounting, React",rabia.khan@company.com
+E1167,Usman Siddiqui,Marketing,Marketing Specialist,E1076,Lahore,Full-Time,1994-06-05,26-Mar-2021,105400.0,2.6,React,usman.siddiqui@company.com
+E1173,Fatima Iqbal,Sales,Sales Executive,E1131,Faisalabad,Contract,1994-01-26,10/03/2021,91400.0,3.9,"Communication, React",fatima.iqbal@company.com
+E1120,Ali Javed,Customer Support,Support Team Lead,E1095,Multan,Contract,1985-02-19,25/07/2024,-65200.0,3.3,"Cloud, Customer Service, Excel, Photoshop",ali.javed@company.com
+E1015,Sadia Farooq,Operations,Operations Manager,E1000,Karachi,Part-Time,1994-05-01,03/06/2021,77600.0,2.6,PowerBI,sadia.farooq@company.com
+E1030,Junaid Khan,HR,HR Manager,E1007,Rawalpindi,Contract,1987-06-20,2021-05-25,72400.0,3.8,"Communication, Customer Service, Photoshop, Python",junaid.khan@company.com
+E1116,Danish Khan,Finance,Financial Analyst,E1050,Rawalpindi,Full-Time,1983-07-26,2023-06-06,122400.0,4.4,"Accounting, SQL",danish.khan@company.com
+E1126,Asad Khan,Finance,Finance Manager,E1016,Rawalpindi,Full-Time,1996-02-06,01/08/2018,78700.0,3.6,"Data Analysis, Java, SEO",asad.khan@company.com
+E1111,Sana Iqbal,Engineering,Senior Software Engineer,E1074,Faisalabad,Full-Time,1982-11-19,2021-06-03,143200.0,4.2,"Accounting, Java",sana.iqbal@company.com
+E1108,Zeeshan Sheikh,Sales,Sales Manager,,Islamabad,Full-Time,1976-08-28,11-Aug-2019,98200.0,3.9,"Photoshop, PowerBI",zeeshan.sheikh@company.com
+E1002,Zainab Chaudhry,Customer Support,Support Team Lead,,Rawalpindi,Contract,1977-02-19,2023-03-05,74900.0,2.3,SEO,zainab.chaudhry@company.com
+E1014,Areeba Sheikh,Customer Support,Support Agent,E1006,Faisalabad,Part-Time,1983-05-06,07/02/2018,61700.0,3.9,"Communication, Negotiation, PowerBI, Project Management",areeba.sheikh@company.com
+E1090,Kamran Raza,Engineering,Engineering Manager,E1024,Rawalpindi,Full-Time,1989-01-05,06/05/2021,137200.0,4.2,"Customer Service, Excel, Photoshop, Python",kamran.raza@company.com
+E1051,Kamran Farooq,Engineering,Engineering Manager,E1048,Islamabad,Part-Time,1975-11-23,28-Jan-2024,,2.8,SQL,kamran.farooq@company.com
+E1115,Rabia Javed,Sales,Sales Manager,E1028,Islamabad,Contract,1988-06-06,08-Mar-2020,87500.0,5.0,"Communication, Python",rabia.javed@company.com
+E1063,Sadia Raza,Finance,Accountant,E1043,Faisalabad,Contract,1975-08-08,2019-10-05,123200.0,2.4,"Excel, Leadership, SEO",sadia.raza@company.com
+E1104,Shahzaib Farooq,Marketing,Marketing Specialist,E1101,Islamabad,Full-Time,1995-05-27,24/03/2022,119600.0,3.2,"Communication, Data Analysis",shahzaib.farooq@company.com
+E1069,Waqas Raza,Finance,Financial Analyst,E1031,Islamabad,Part-Time,2001-10-13,04/05/2019,84700.0,3.5,Data Analysis,waqas.raza@company.com
+E1149,Hassan Butt,Engineering,Senior Software Engineer,E1013,Islamabad,Contract,1988-04-04,21/08/2019,-178600.0,3.9,"Accounting, Cloud",hassan.butt@company.com
+E1151,Hina Sheikh,Marketing,Marketing Specialist,E1088,Faisalabad,Contract,1982-08-08,09/10/2018,114800.0,5.0,"Accounting, Communication, PowerBI, SQL",hina.sheikh@company.com
+E1148,Usman Chaudhry,Marketing,Marketing Specialist,E1020,Multan,Contract,1985-09-13,2018-09-13,89100.0,3.9,"Data Analysis, Java, PowerBI",usman.chaudhry@company.com
+E1077,Hina Chaudhry,Engineering,Software Engineer,E1018,Karachi,Part-Time,1997-04-17,23-Apr-2023,145600.0,3.9,"Communication, Photoshop, PowerBI, SEO",hina.chaudhry@company.com
+E1119,Kinza Raza,Marketing,SEO Analyst,E1080,Lahore,Contract,1984-07-24,2021-02-18,71200.0,3.1,Data Analysis,kinza.raza@company.com
+E1066,Danish Farooq,Sales,Business Development Rep,E1046,Islamabad,Full-Time,2001-05-10,2020-10-29,94200.0,4.5,Customer Service,danish.farooq@company.com
+E1099,Sara Butt,Customer Support,Support Team Lead,E1069,Lahore,Full-Time,2001-06-26,26/11/2021,66700.0,3.3,"Customer Service, Photoshop, Python, SQL",sara.butt@company.com
+E1086,Fatima Javed,HR,Recruiter,E1061,Rawalpindi,Part-Time,1986-03-25,13-Jan-2018,84900.0,,"Data Analysis, Photoshop",fatima.javed@company.com
+E1012,Kinza Javed,Sales,Sales Executive,E1006,Faisalabad,Contract,1990-10-14,05/05/2024,61100.0,4.9,React,kinza.javed@company.com
+E1127,Ahmed Chaudhry,Sales,Sales Manager,E1118,Faisalabad,Contract,1977-03-19,02-Feb-2023,81700.0,4.0,"Data Analysis, Leadership, Negotiation, PowerBI",ahmed.chaudhry@company.com
+E1049,Ali Butt,Sales,Sales Executive,E1001,faisalabad,Full-Time,1987-06-28,08-Jul-2020,115500.0,3.5,"Excel, Project Management",ali.butt@company.com
+E1064,Zeeshan Sheikh,Sales,Business Development Rep,,Islamabad,Full-Time,2000-03-27,2024-03-25,110500.0,2.6,"Excel, Leadership, React",zeeshan.sheikh@company.com
+E1123,Kamran Butt,Customer Support,Support Team Lead,E1119,Islamabad,Contract,1982-03-01,14/04/2019,61200.0,3.2,Photoshop,kamran.butt@company.com
+E1112,Rizwan Sheikh,Sales,Business Development Rep,E1039,Rawalpindi,Full-Time,1991-12-25,11/03/2024,62000.0,3.4,"Excel, Negotiation, React, SEO",rizwan.sheikh@company.com
+E1162,Zeeshan Iqbal,Sales,Sales Manager,E1075,Faisalabad,Contract,1998-05-06,20-Mar-2024,,4.1,"Customer Service, Leadership",zeeshan.iqbal@company.com
+E1005,Ali Khan,Sales,Sales Executive,,Islamabad,Full-Time,1996-08-04,18/05/2022,94100.0,,"Communication, SEO",ali.khan@company.com
+E1102,Asad Malik,Customer Support,Support Team Lead,E1084,Rawalpindi,Full-Time,1998-04-18,22/02/2018,71900.0,4.0,Java,asad.malik@company.com
+E1106,Kamran Iqbal,Finance,Financial Analyst,,Multan,Contract,2000-06-15,01/08/2018,91500.0,4.3,"Excel, PowerBI",kamran.iqbal@company.com
+E1093,Sidra Raza,HR,Recruiter,E1050,Rawalpindi,Contract,1998-01-04,03/01/2024,70900.0,3.7,"Data Analysis, PowerBI, SQL",sidra.raza@company.com
+E1058,Sadia Sheikh,Finance,Financial Analyst,E1004,Multan,Full-Time,1998-11-18,2023-05-15,122600.0,4.8,"Customer Service, Data Analysis, Leadership",sadia.sheikh@company.com
+E1006,Mahnoor Siddiqui,Operations,Operations Manager,,Karachi,Full-Time,1993-12-24,06/09/2022,80100.0,,"Cloud, Customer Service, Leadership, SEO",mahnoor.siddiqui@company.com
+E1083,Rabia Siddiqui,Engineering,Software Engineer,E1037,Rawalpindi,Contract,1991-12-26,25-Jan-2023,208900.0,3.4,SEO,rabia.siddiqui@company.com
+E1157,Waqas Butt,Sales,Sales Manager,E1079,Islamabad,Contract,1984-04-07,26-Mar-2018,75300.0,3.0,"Cloud, Excel, Negotiation",waqas.butt@company.com
+E1021,Usman Iqbal,HR,HR Manager,E1001,Islamabad,Part-Time,1993-08-06,27/06/2022,82900.0,4.1,Java,usman.iqbal@company.com
+E1035,Sadia Khan,Finance,Finance Manager,E1031,Multan,Part-Time,1982-03-03,30/03/2019,108400.0,4.7,"Data Analysis, Photoshop, SQL",sadia.khan@company.com
+E1100,Laiba Butt,Marketing,Marketing Manager,E1093,Faisalabad,Part-Time,1993-05-20,06/12/2018,94400.0,3.9,Photoshop,laiba.butt@company.com
+E1163,Salman Sheikh,HR,Recruiter,E1143,Lahore,Contract,1997-08-19,2022-10-01,86500.0,3.9,"Cloud, Photoshop, PowerBI",salman.sheikh@company.com
+E1097,Ali Sheikh,Finance,Financial Analyst,E1051,Lahore,Full-Time,1980-04-09,2022-01-26,122300.0,3.8,"Data Analysis, Excel, Java, Project Management",ali.sheikh@company.com
+E1062,Rizwan Siddiqui,Finance,Accountant,,Islamabad,Full-Time,1986-05-09,09/10/2023,-92800.0,2.9,"Accounting, Communication, Leadership",rizwan.siddiqui@company.com
+E1176,Usman Chaudhry,Engineering,DevOps Engineer,E1026,Karachi,Contract,1987-05-17,02/06/2019,102000.0,5.0,Cloud,usman.chaudhry@company.com
+E1128,Hassan Khan,Marketing,Content Writer,E1099,Islamabad,Full-Time,1998-08-07,28/11/2018,,4.5,"PowerBI, Python, SQL",hassan.khan@company.com
+E1020,Adeel Iqbal,Sales,Sales Executive,,Faisalabad,Full-Time,1976-01-18,20-Oct-2020,87100.0,3.0,"Cloud, Communication",adeel.iqbal@company.com
+E1085,Haris Javed,Sales,Sales Executive,E1081,Islamabad,Full-Time,1999-12-26,02-Nov-2019,101200.0,3.8,"Data Analysis, Leadership, SQL",haris.javed@company.com
+E1164,Adeel Sheikh,Customer Support,Support Team Lead,E1105,Karachi,Full-Time,1998-05-06,2019-03-25,71800.0,2.2,"Accounting, Java, PowerBI, SEO",adeel.sheikh@company.com
+E1065,Usman Butt,Customer Support,Support Agent,E1011,rawalpindi,Contract,1989-07-11,09-Dec-2019,77400.0,2.3,"Data Analysis, Leadership, React",usman.butt@company.com
+E1057,Noor Iqbal,Sales,Sales Executive,E1056,Faisalabad,Contract,1978-09-18,2019-05-07,63900.0,3.7,"Excel, React, SEO",noor.iqbal@company.com
+E1178,Usman Sheikh,Engineering,DevOps Engineer,E1081,Lahore,Contract,1975-09-25,04-Oct-2021,193100.0,2.9,"Accounting, Python, React, SEO",
+E1028,Faisal Raza,Engineering,DevOps Engineer,E1021,Multan,Part-Time,1999-07-07,02/11/2022,174400.0,3.6,"Leadership, Photoshop, Python",faisal.raza@company.com
+E1004,Kamran Malik,Marketing,Marketing Manager,,Rawalpindi,Full-Time,1976-11-16,2019-01-25,123500.0,3.2,"Cloud, Customer Service, Data Analysis, PowerBI",kamran.malik@company.com
+E1031,Zeeshan Siddiqui,Finance,Accountant,,Islamabad,Part-Time,1988-11-22,22/06/2024,-101000.0,4.1,Communication,zeeshan.siddiqui@company.com
+E1121,Amna Chaudhry,HR,Recruiter,E1097,rawalpindi,Part-Time,1992-12-25,28/04/2023,73300.0,3.3,"Accounting, Communication, Leadership",amna.chaudhry@company.com
+E1039,Junaid Butt,HR,HR Manager,,Rawalpindi,Contract,1984-11-21,2019-11-28,87100.0,3.1,"Leadership, Negotiation, Project Management, Python",junaid.butt@company.com
+E1038,Tahir Sheikh,Finance,Accountant,E1023,islamabad,Contract,1999-11-02,13/03/2022,107700.0,3.8,"Photoshop, Python, SQL",tahir.sheikh@company.com
+E1172,Sidra Chaudhry,Operations,Operations Executive,E1087,Rawalpindi,Full-Time,1997-10-02,2021-05-13,80000.0,3.5,"Leadership, Photoshop, PowerBI, Python",sidra.chaudhry@company.com
+E1059,Mahnoor Butt,Operations,Operations Executive,E1035,Multan,Contract,1994-10-15,03-Jun-2019,94600.0,4.0,"Communication, Excel, Leadership",mahnoor.butt@company.com
+E1174,Rabia Malik,Marketing,Marketing Manager,E1149,Multan,Part-Time,1980-05-21,2023-03-24,96000.0,2.9,"Cloud, SQL",rabia.malik@company.com
+E1050,Sana Siddiqui,Marketing,SEO Analyst,E1006,Karachi,Part-Time,1995-11-04,15/03/2023,98700.0,4.2,"Accounting, Customer Service, Python",sana.siddiqui@company.com
+E1084,Omar Raza,Marketing,Marketing Manager,E1005,Karachi,Part-Time,1994-09-11,21/01/2022,109200.0,4.9,Negotiation,omar.raza@company.com
+E1159,Talha Siddiqui,Engineering,Software Engineer,E1145,Lahore,Contract,1975-10-22,13/01/2018,138400.0,2.9,"Excel, Project Management, React",talha.siddiqui@company.com
+E1137,Hassan Iqbal,Engineering,Senior Software Engineer,E1093,Multan,Full-Time,1986-09-14,01/01/2019,159000.0,3.5,Leadership,hassan.iqbal@company.com
+E1134,Hassan Siddiqui,Marketing,Marketing Manager,E1126,Rawalpindi,Contract,1980-10-24,10-Mar-2020,92200.0,3.4,"Negotiation, PowerBI, Project Management, React",hassan.siddiqui@company.com
+E1166,Komal Sheikh,HR,HR Executive,,Lahore,Part-Time,2001-11-27,2021-02-08,88000.0,3.4,"Excel, Project Management, SEO, SQL",komal.sheikh@company.com
+E1075,Salman Javed,HR,HR Manager,E1071,Faisalabad,Contract,2001-08-01,2020-02-21,87100.0,3.9,"Cloud, Leadership, Negotiation, Project Management",salman.javed@company.com
+E1105,Zeeshan Butt,Marketing,Marketing Manager,E1020,Faisalabad,Full-Time,1986-09-14,2021-04-28,73800.0,4.2,React,zeeshan.butt@company.com
+E1095,Salman Farooq,Customer Support,Support Team Lead,E1066,Islamabad,Contract,1990-05-28,13-Nov-2023,62600.0,4.2,Project Management,salman.farooq@company.com
+E1147,Rabia Iqbal,Operations,Operations Manager,E1014,Faisalabad,Contract,1975-11-18,25-Jul-2021,91100.0,3.4,"Cloud, Leadership, PowerBI, SEO",rabia.iqbal@company.com
+E1033,Laiba Sheikh,Customer Support,Support Team Lead,E1009,Lahore,Full-Time,1979-12-07,2024-04-09,75200.0,3.5,Data Analysis,laiba.sheikh@company.com
+E1135,Talha Farooq,Marketing,SEO Analyst,E1040,Islamabad,Full-Time,1996-07-20,16/12/2018,94700.0,4.1,"Customer Service, Java, Negotiation, Project Management",talha.farooq@company.com
+E1008,Kamran Raza,Marketing,Marketing Specialist,,Karachi,Contract,1991-06-11,04/03/2020,80700.0,3.6,"Customer Service, PowerBI, React, SEO",kamran.raza@company.com
+E1040,Bilal Javed,Sales,Sales Manager,,Karachi,Contract,1985-09-09,2022-01-27,98200.0,4.7,"Customer Service, Java, Photoshop, React",bilal.javed@company.com
+E1158,Bilal Malik,Sales,Business Development Rep,E1108,Islamabad,Part-Time,1982-02-04,19-Apr-2023,63700.0,5.0,"Negotiation, React, SEO, SQL",bilal.malik@company.com
+E1032,Mahnoor Javed,Finance,Accountant,E1026,Rawalpindi,Contract,1985-03-25,06/03/2024,158000.0,4.9,"Cloud, React",mahnoor.javed@company.com
+E1110,Faisal Malik,HR,HR Executive,,Faisalabad,Contract,1977-10-13,12/08/2019,90000.0,3.3,"Cloud, Leadership, Negotiation",faisal.malik@company.com
+E1047,Usman Butt,Sales,Business Development Rep,E1026,Karachi,Part-Time,1988-02-25,06/12/2021,87100.0,4.4,"Accounting, Photoshop",
+E1010,Waqas Khan,Customer Support,Support Team Lead,E1000,Faisalabad,Full-Time,1977-12-10,19/11/2018,68900.0,3.2,"Leadership, PowerBI, Project Management, React",waqas.khan@company.com
+E1048,Faisal Khan,Engineering,Senior Software Engineer,,Karachi,Part-Time,1993-08-07,21-Aug-2020,185800.0,3.3,Photoshop,faisal.khan@company.com
+E1154,Usman Sheikh,Sales,Business Development Rep,E1130,Islamabad,Full-Time,1997-12-09,2023-10-10,116700.0,3.7,"Project Management, React",usman.sheikh@company.com
+E1018,Laiba Iqbal,Finance,Accountant,E1006,Multan,Full-Time,1993-12-02,18-Jun-2024,113300.0,3.9,"Data Analysis, Leadership, Python",laiba.iqbal@company.com
+E1043,Areeba Siddiqui,Customer Support,Support Team Lead,E1012,Faisalabad,Full-Time,1999-05-17,2022-01-09,62700.0,3.0,"Data Analysis, PowerBI, React, SQL",areeba.siddiqui@company.com
+E1017,Kamran Chaudhry,Sales,Business Development Rep,E1000,Rawalpindi,Part-Time,1995-10-02,2023-06-02,77600.0,4.5,Data Analysis,kamran.chaudhry@company.com
+E1090,Kamran Raza,Engineering,Engineering Manager,E1024,Rawalpindi,Full-Time,1989-01-05,06/05/2021,137200.0,4.2,"Customer Service, Excel, Photoshop, Python",kamran.raza@company.com
+E1117,Talha Raza,HR,HR Executive,E1114,Lahore,Part-Time,1979-08-06,03/11/2022,93000.0,2.5,"Accounting, React",talha.raza@company.com
+E1019,Sidra Javed,Sales,Sales Executive,E1003,Faisalabad,Contract,1992-08-15,21-Apr-2022,78100.0,2.9,"Cloud, Leadership, PowerBI, Project Management",sidra.javed@company.com
+E1078,Zeeshan Chaudhry,Marketing,Content Writer,E1062,Faisalabad,Contract,1981-03-24,30-Jan-2024,-97900.0,3.9,"Java, Negotiation, Project Management",zeeshan.chaudhry@company.com
+E1155,Sana Iqbal,Customer Support,Support Agent,,Lahore,Contract,1979-08-10,20/05/2021,80800.0,3.9,"Data Analysis, Project Management, React, SEO",sana.iqbal@company.com
+E1072,Amna Iqbal,Engineering,Software Engineer,E1007,Lahore,Contract,1990-01-22,15/05/2024,125100.0,3.5,"SEO, SQL",amna.iqbal@company.com
+E1068,Danish Chaudhry,HR,Recruiter,E1039,Lahore,Part-Time,1987-05-28,01-Nov-2019,108600.0,3.5,Data Analysis,danish.chaudhry@company.com
+E1136,Danish Javed,Finance,Finance Manager,E1102,Karachi,Part-Time,1976-11-08,26-Nov-2022,97400.0,2.7,"Excel, PowerBI, React",danish.javed@company.com
+E1131,Komal Butt,HR,HR Manager,,Multan,Part-Time,1991-09-21,08-Dec-2018,88500.0,3.7,"Communication, SEO",komal.butt@company.com
+E1001,Laiba Farooq,Sales,Sales Manager,,Lahore,Part-Time,1985-02-03,06/03/2024,82200.0,4.0,"Excel, SQL",laiba.farooq@company.com
+E1175,Mariam Iqbal,HR,HR Executive,E1133,Karachi,Full-Time,1979-03-16,29-Jun-2021,78300.0,3.5,"Communication, Leadership",mariam.iqbal@company.com
+E1133,Amna Farooq,HR,HR Manager,,Faisalabad,Full-Time,1982-09-07,20-Oct-2019,74300.0,3.1,"Customer Service, Photoshop, PowerBI, Python",amna.farooq@company.com
+E1146,Hamza Khan,Customer Support,Support Team Lead,E1126,Faisalabad,Contract,1990-12-22,25/04/2022,70500.0,4.6,"Accounting, Project Management, SQL",hamza.khan@company.com
+E1140,Salman Raza,Marketing,Marketing Manager,E1134,Faisalabad,Part-Time,2001-08-17,17/07/2024,106700.0,3.1,"Communication, Python, React, SEO",salman.raza@company.com
+E1007,Sara Khan,Customer Support,Support Agent,E1000,Multan,Part-Time,1975-02-22,24-Mar-2019,63300.0,4.9,"Customer Service, Photoshop, Project Management, SEO",sara.khan@company.com
+E1142,Hassan Chaudhry,Sales,Sales Manager,E1136,faisalabad,Contract,1976-01-06,09/06/2024,-79000.0,3.3,Photoshop,hassan.chaudhry@company.com
+E1044,Talha Javed,Sales,Sales Executive,E1022,Karachi,Part-Time,1988-09-03,2022-09-07,77500.0,3.1,Negotiation,talha.javed@company.com
+E1027,Mariam Raza,HR,Recruiter,E1011,Lahore,Contract,1979-09-08,2023-02-06,90500.0,4.3,Communication,mariam.raza@company.com
+E1138,Rizwan Farooq,Finance,Financial Analyst,E1098,Rawalpindi,Contract,1979-05-18,04-May-2018,115700.0,2.9,"Data Analysis, Java",rizwan.farooq@company.com
+E1107,Fatima Farooq,Finance,Accountant,E1099,Faisalabad,Contract,1994-01-21,2023-07-07,93900.0,4.1,"Cloud, Communication, Project Management, Python",fatima.farooq@company.com
+E1089,Laiba Butt,HR,HR Manager,E1033,Rawalpindi,Part-Time,1978-06-24,30/10/2020,88900.0,2.7,"Cloud, Leadership, PowerBI, Project Management",laiba.butt@company.com
+E1156,Shahzaib Sheikh,Operations,Operations Manager,E1086,Karachi,Contract,1984-06-09,2019-05-31,95700.0,2.0,"Excel, Negotiation, Photoshop, Project Management",shahzaib.sheikh@company.com
+E1023,Adeel Siddiqui,Marketing,Marketing Specialist,E1000,Islamabad,Full-Time,1980-05-09,2022-12-16,97700.0,3.7,"Data Analysis, Java, Negotiation, PowerBI",adeel.siddiqui@company.com
+E1096,Amna Malik,Operations,Operations Executive,E1009,Lahore,Full-Time,1986-12-09,2022-07-17,89500.0,2.6,"Customer Service, Photoshop, SEO",amna.malik@company.com
+E1079,Sara Khan,Engineering,Senior Software Engineer,E1068,Rawalpindi,Part-Time,1980-02-07,22/09/2020,153000.0,4.4,"Accounting, Java, Leadership, Negotiation",sara.khan@company.com
+E1168,Laiba Iqbal,HR,HR Executive,,Islamabad,Full-Time,1983-06-20,2020-08-11,96400.0,4.2,"Accounting, Communication",laiba.iqbal@company.com
+E1114,Omar Raza,HR,HR Executive,E1089,Multan,Full-Time,1993-02-07,25-Jul-2024,66400.0,4.3,"Customer Service, Data Analysis, Photoshop",omar.raza@company.com
+E1070,Usman Siddiqui,Finance,Financial Analyst,E1056,Multan,Full-Time,1987-12-16,22-Apr-2021,84200.0,4.0,Accounting,usman.siddiqui@company.com
+E1067,Sara Sheikh,Sales,Sales Manager,E1036,Rawalpindi,Part-Time,1986-06-19,2018-12-02,102900.0,,"Python, React",sara.sheikh@company.com
+E1145,Shahzaib Farooq,Sales,Sales Executive,E1075,Karachi,Part-Time,1984-04-18,04-Jul-2019,118800.0,2.9,"Accounting, Data Analysis, SQL",shahzaib.farooq@company.com
+E1152,Iqra Khan,Operations,Operations Executive,E1099,Lahore,Part-Time,1987-11-01,17-Mar-2020,67100.0,2.8,Accounting,iqra.khan@company.com
+E1015,Sadia Farooq,Operations,Operations Manager,E1000,Karachi,Part-Time,1994-05-01,03/06/2021,77600.0,2.6,PowerBI,sadia.farooq@company.com
+E1179,Omar Sheikh,HR,HR Manager,E1131,Islamabad,Contract,1993-06-01,16/05/2022,95600.0,4.9,"Customer Service, Java, React",omar.sheikh@company.com
+E1037,Danish Butt,Finance,Financial Analyst,E1020,Rawalpindi,Full-Time,1991-11-07,2024-05-12,113100.0,3.6,"Python, React, SQL",danish.butt@company.com
+E1074,Tahir Butt,Finance,Accountant,E1005,Islamabad,Full-Time,1976-10-18,10/12/2020,135700.0,3.9,"Communication, Photoshop, SEO",tahir.butt@company.com
+E1129,Ali Farooq,Engineering,Senior Software Engineer,,Islamabad,Full-Time,1995-02-23,30/09/2020,,3.3,"Customer Service, Data Analysis, Excel",ali.farooq@company.com
+E1140,Salman Raza,Marketing,Marketing Manager,E1134,Faisalabad,Part-Time,2001-08-17,17/07/2024,106700.0,3.1,"Communication, Python, React, SEO",salman.raza@company.com
+E1034,Salman Javed,Operations,Operations Manager,E1003,Rawalpindi,Full-Time,1991-08-16,2019-03-29,103500.0,3.6,Java,salman.javed@company.com
+E1132,Komal Butt,Engineering,DevOps Engineer,E1088,Karachi,Contract,2001-06-27,2024-06-10,136400.0,3.0,Leadership,komal.butt@company.com
+E1125,Nimra Javed,Engineering,QA Engineer,E1005,Faisalabad,Part-Time,1990-06-23,15/11/2021,108400.0,3.5,"Accounting, Cloud",nimra.javed@company.com
+E1045,Kinza Iqbal,Engineering,DevOps Engineer,,Multan,Contract,1993-11-25,2023-07-04,150700.0,3.6,"Customer Service, Photoshop, SEO",kinza.iqbal@company.com
+E1160,Adeel Chaudhry,Sales,Business Development Rep,E1148,Karachi,Contract,1986-11-14,2022-04-21,95700.0,3.7,Customer Service,adeel.chaudhry@company.com
+E1092,Ahmed Sheikh,Operations,Operations Executive,,Faisalabad,Contract,1990-03-08,19/11/2019,101700.0,4.1,"Java, Negotiation, PowerBI",ahmed.sheikh@company.com
+E1109,Asad Raza,Operations,Operations Executive,,Islamabad,Contract,1999-08-17,2020-11-15,89200.0,,"Cloud, Java",asad.raza@company.com
+E1024,Sadia Chaudhry,Operations,Operations Manager,E1007,Multan,Full-Time,1979-02-10,15/03/2019,95300.0,2.9,"Excel, PowerBI, SQL",
+E1082,Omar Malik,Customer Support,Support Agent,E1056,Rawalpindi,Full-Time,1984-12-03,21/02/2023,62900.0,4.1,SQL,omar.malik@company.com
+E1071,Ali Sheikh,Engineering,Software Engineer,E1012,Lahore,Contract,1995-03-06,27-May-2018,123500.0,3.2,"React, SEO",ali.sheikh@company.com
+E1161,Sana Chaudhry,Operations,Operations Manager,,Lahore,Contract,1983-02-25,02/04/2018,81600.0,3.4,"Accounting, React, SEO, SQL",sana.chaudhry@company.com
+E1076,Rizwan Khan,Sales,Sales Manager,E1000,Karachi,Full-Time,1982-10-22,03/06/2020,115700.0,5.0,"Accounting, Customer Service, Data Analysis, SQL",rizwan.khan@company.com
+E1013,Waqas Farooq,Sales,Business Development Rep,E1010,Rawalpindi,Part-Time,1991-06-26,23/05/2020,79500.0,3.3,"Accounting, SEO",waqas.farooq@company.com
+E1081,Omar Iqbal,Finance,Finance Manager,E1067,Multan,Contract,1986-04-27,2019-09-13,129500.0,3.6,"Communication, Leadership, Python",
+E1091,Zainab Farooq,Engineering,QA Engineer,,multan,Contract,1998-12-20,03-Jan-2021,166500.0,2.8,"Accounting, Excel, SEO",
+E1080,Usman Chaudhry,Engineering,Engineering Manager,E1069,Rawalpindi,Part-Time,1987-07-19,24-Nov-2023,152600.0,5.0,"Accounting, Customer Service, Leadership, Project Management",usman.chaudhry@company.com
+E1153,Ahmed Khan,Customer Support,Support Team Lead,,Multan,Part-Time,1979-09-20,2020-11-21,59900.0,3.0,"Accounting, Leadership",ahmed.khan@company.com

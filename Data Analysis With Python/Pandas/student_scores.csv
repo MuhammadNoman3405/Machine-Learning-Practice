@@ -1,0 +1,254 @@
+StudentID,StudentName,Gender,Class,Section,City,Math,Science,English,Urdu,Attendance_%
+S0017,Talha Farooq,Male,10th,C,Taxila,52.0,27.0,76.0,86.0,95.7
+S0032,Ayesha Javed,,9th,A,Lahore,96.0,54.0,93.0,45.0,89.8
+S0140,Nimra Javed,F,12th,B,Wah Cantt,68.0,78.0,98.0,93.0,74.3
+S0066,Hina Javed,male,12th,C,Lahore,101.0,89.0,58.0,90.0,93.4
+S0058,Talha Khan,F,11th,B,Rawalpindi,76.0,,48.0,57.0,77.9
+S0206,Ayesha Farooq,female,9th,C,Rawalpindi,81.0,62.0,70.0,73.0,67.1
+S0007,Sara Farooq,Male,12th,A,Lahore,88.0,49.0,44.0,76.0,100.0
+S0122,Sara Javed,female,12th,A,Wah Cantt,46.0,63.0,45.0,65.0,72.3
+S0015,Iqra Chaudhry,Male,9th,A,Taxila,74.0,49.0,47.0,77.0,82.4
+S0202,Iqra Chaudhry,male,11th,B,Karachi,84.0,79.0,102.0,73.0,65.1
+S0039,Omar Farooq,Female,12th,B,Lahore,85.0,46.0,,74.0,89.1
+S0011,Mahnoor Raza,female,11th,C,Rawalpindi,81.0,78.0,79.0,52.0,81.7
+S0065,Laiba Farooq,Male,11th,B,Islamabad,79.0,78.0,65.0,72.0,100.0
+S0083,Laiba Farooq,F,10th,A,Rawalpindi,67.0,44.0,76.0,55.0,90.8
+S0024,Laiba Farooq,male,11th,A,Wah Cantt,62.0,65.0,61.0,55.0,74.8
+S0068,Amna Malik,M,12th,A,Islamabad,60.0,105.0,69.0,46.0,91.7
+S0103,Hassan Siddiqui,female,10th,B,Wah Cantt,69.0,72.0,56.0,51.0,83.8
+S0234,Mariam Khan,,11th,C,Karachi,93.0,80.0,97.0,75.0,81.6
+S0207,Noor Siddiqui,female,11th,B,Rawalpindi,61.0,87.0,88.0,74.0,100.0
+S0138,Areeba Butt,M,9th,B,Wah Cantt,96.0,,73.0,102.0,90.8
+S0004,Laiba Farooq,Male,12th,A,Islamabad,72.0,74.0,51.0,71.0,
+S0041,Kinza Raza,F,10th,A,Wah Cantt,60.0,110.0,48.0,79.0,100.0
+S0090,Mahnoor Malik,F,10th,B,Wah Cantt,85.0,71.0,74.0,,91.8
+S0194,Junaid Farooq,M,12th,A,Karachi,58.0,82.0,70.0,44.0,80.8
+S0112,Haris Farooq,M,9th,B,Wah Cantt,58.0,88.0,46.0,67.0,85.1
+S0123,Noor Butt,Male,9th,B,Lahore,75.0,83.0,41.0,62.0,78.4
+S0218,Waqas Khan,F,9th,A,Lahore,80.0,79.0,101.0,64.0,100.0
+S0222,Zeeshan Chaudhry,Male,12th,A,Taxila,83.0,82.0,105.0,76.0,76.0
+S0102,Tahir Siddiqui,M,11th,B,Karachi,48.0,64.0,88.0,66.0,75.6
+S0078,Haris Malik,Female,11th,B,Islamabad,93.0,78.0,71.0,72.0,89.3
+S0059,Asad Malik,Female,11th,A,Karachi,84.0,85.0,59.0,82.0,82.1
+S0174,Haris Farooq,female,11th,B,Islamabad,12.0,57.0,58.0,58.0,87.4
+S0136,Noor Chaudhry,M,11th,C,Karachi,65.0,81.0,75.0,49.0,88.2
+S0016,Asad Malik,F,10th,B,Karachi,,108.0,79.0,62.0,100.0
+S0047,Komal Iqbal,male,11th,A,Lahore,86.0,61.0,39.0,85.0,78.9
+S0181,Sara Raza,M,9th,C,Wah Cantt,91.0,78.0,59.0,84.0,92.3
+S0044,Sadia Javed,male,9th,C,Lahore,86.0,47.0,67.0,71.0,90.9
+S0209,Hassan Farooq,male,11th,A,Islamabad,86.0,45.0,73.0,74.0,94.7
+S0074,Nimra Farooq,Male,12th,C,Rawalpindi,47.0,41.0,53.0,76.0,90.1
+S0075,Usman Sheikh,Female,9th,A,Lahore,77.0,56.0,83.0,73.0,80.6
+S0220,Tahir Iqbal,Male,10th,B,KARACHI,84.0,73.0,110.0,74.0,84.7
+S0217,Nimra Chaudhry,male,11th,A,Rawalpindi,37.0,56.0,70.0,83.0,67.3
+S0141,Hina Sheikh,M,10th,A,Wah Cantt,73.0,77.0,69.0,94.0,87.9
+S0119,Fatima Javed,F,9th,B,KARACHI,78.0,48.0,60.0,56.0,79.8
+S0104,Faisal Farooq,Male,12th,A,Wah Cantt,98.0,45.0,66.0,66.0,84.6
+S0198,Areeba Chaudhry,male,10th,B,Taxila,64.0,50.0,,78.0,85.9
+S0169,Kinza Iqbal,F,9th,C,Taxila,66.0,57.0,90.0,90.0,98.7
+S0178,Talha Khan,male,11th,B,Lahore,40.0,60.0,77.0,64.0,95.0
+S0062,Komal Chaudhry,male,11th,A,Karachi,77.0,80.0,60.0,68.0,82.9
+S0089,Asad Butt,Female,12th,C,Islamabad,84.0,59.0,69.0,63.0,96.0
+S0212,Noor Farooq,Female,12th,B,Taxila,59.0,92.0,57.0,68.0,69.7
+S0046,Haris Raza,Female,9th,C,Taxila,80.0,65.0,72.0,34.0,92.4
+S0235,Waqas Javed,F,9th,B,Karachi,76.0,66.0,73.0,88.0,76.4
+S0197,Fatima Iqbal,F,12th,C,Taxila,79.0,79.0,70.0,65.0,87.2
+S0155,Nimra Farooq,male,10th,A,Rawalpindi,74.0,71.0,85.0,73.0,81.8
+S0160,Usman Iqbal,M,9th,A,Islamabad,65.0,53.0,61.0,77.0,92.4
+S0005,Amna Iqbal,Female,10th,A,Karachi,55.0,63.0,40.0,48.0,74.4
+S0162,Sidra Khan,Male,11th,B,Taxila,50.0,80.0,68.0,76.0,66.6
+S0071,Rabia Iqbal,male,12th,B,Islamabad,85.0,66.0,64.0,52.0,78.0
+S0099,Mariam Malik,F,10th,B,Karachi,67.0,78.0,72.0,52.0,79.5
+S0227,Zeeshan Farooq,F,10th,A,Taxila,53.0,,98.0,60.0,84.3
+S0035,Kinza Butt,F,12th,A,Karachi,76.0,71.0,47.0,43.0,88.2
+S0026,Sadia Chaudhry,Male,11th,C,LAHORE,43.0,70.0,62.0,86.0,77.9
+S0127,Hina Chaudhry,female,12th,C,Islamabad,56.0,71.0,63.0,50.0,100.0
+S0244,Junaid Siddiqui,male,11th,A,Lahore,72.0,96.0,59.0,67.0,80.6
+S0211,Danish Malik,female,12th,A,Islamabad,-5.0,84.0,70.0,80.0,79.2
+S0084,Sidra Khan,M,9th,C,Taxila,74.0,114.0,76.0,110.0,93.4
+S0011,Mahnoor Raza,female,11th,C,Rawalpindi,81.0,78.0,79.0,52.0,81.7
+S0200,Rizwan Chaudhry,female,11th,C,Rawalpindi,61.0,45.0,60.0,71.0,96.0
+S0013,Salman Khan,female,9th,A,Rawalpindi,81.0,64.0,64.0,64.0,89.2
+S0216,Areeba Javed,M,11th,B,Wah Cantt,60.0,59.0,66.0,54.0,84.7
+S0152,Nimra Sheikh,male,11th,C,Wah Cantt,70.0,56.0,70.0,61.0,84.6
+S0165,Amna Iqbal,Male,12th,B,Islamabad,46.0,77.0,87.0,63.0,86.3
+S0048,Kamran Sheikh,F,9th,B,Taxila,90.0,69.0,-5.0,60.0,72.0
+S0163,Junaid Malik,F,12th,A,Islamabad,86.0,36.0,54.0,35.0,91.2
+S0116,Mariam Raza,Female,11th,B,Karachi,33.0,58.0,,56.0,78.9
+S0042,Ali Butt,male,10th,C,Karachi,68.0,53.0,99.0,76.0,87.4
+S0064,Sara Javed,male,12th,B,Lahore,66.0,94.0,68.0,93.0,91.4
+S0147,Omar Khan,Male,10th,B,Karachi,74.0,60.0,63.0,75.0,85.5
+S0109,Ahmed Khan,Male,9th,C,Karachi,92.0,67.0,62.0,88.0,66.8
+S0236,Areeba Iqbal,M,10th,C,Islamabad,74.0,62.0,78.0,74.0,100.0
+S0242,Hassan Malik,Female,11th,A,Islamabad,77.0,63.0,58.0,71.0,82.5
+S0115,Sidra Sheikh,M,11th,A,Wah Cantt,84.0,71.0,52.0,70.0,
+S0228,Komal Sheikh,M,12th,A,Karachi,73.0,-5.0,86.0,68.0,88.2
+S0208,Usman Butt,Female,9th,A,Wah Cantt,52.0,75.0,91.0,,100.0
+S0052,Amna Butt,male,12th,B,Lahore,77.0,57.0,70.0,65.0,79.3
+S0184,Sidra Raza,Male,11th,A,Rawalpindi,100.0,66.0,61.0,80.0,89.3
+S0214,Zainab Chaudhry,male,9th,C,Wah Cantt,54.0,75.0,82.0,78.0,93.0
+S0088,Zeeshan Chaudhry,Male,9th,A,Islamabad,82.0,52.0,101.0,53.0,86.4
+S0204,Areeba Butt,female,12th,C,Karachi,78.0,95.0,49.0,43.0,72.5
+S0183,Iqra Chaudhry,male,12th,B,Lahore,85.0,81.0,87.0,62.0,77.6
+S0156,Kinza Iqbal,Female,10th,C,Rawalpindi,61.0,78.0,66.0,57.0,98.5
+S0087,Ali Butt,,12th,B,Lahore,80.0,63.0,60.0,76.0,83.3
+S0131,Usman Iqbal,M,12th,B,Wah Cantt,75.0,59.0,36.0,68.0,89.4
+S0110,Sara Chaudhry,Female,11th,A,Karachi,109.0,54.0,67.0,63.0,87.5
+S0018,Ali Malik,F,9th,C,Rawalpindi,93.0,81.0,105.0,54.0,92.1
+S0031,Asad Siddiqui,Female,10th,C,Wah Cantt,80.0,95.0,110.0,71.0,
+S0223,Haris Butt,Male,11th,A,Taxila,81.0,,79.0,97.0,74.3
+S0137,Amna Sheikh,M,10th,B,Wah Cantt,67.0,99.0,105.0,37.0,98.3
+S0248,Usman Iqbal,F,12th,A,Lahore,54.0,79.0,85.0,70.0,87.5
+S0126,Adeel Chaudhry,Male,11th,C,Taxila,47.0,67.0,78.0,55.0,69.0
+S0182,Areeba Farooq,female,11th,B,Karachi,58.0,56.0,76.0,57.0,86.6
+S0073,Adeel Malik,Male,10th,C,Islamabad,90.0,54.0,61.0,69.0,70.8
+S0043,Noor Khan,Male,9th,C,Lahore,50.0,75.0,78.0,96.0,93.3
+S0164,Haris Malik,F,11th,A,Islamabad,70.0,63.0,69.0,81.0,98.8
+S0134,Sidra Siddiqui,F,10th,C,Wah Cantt,74.0,76.0,56.0,80.0,62.8
+S0072,Hamza Raza,Male,10th,A,Islamabad,55.0,21.0,48.0,,98.5
+S0176,Mariam Siddiqui,female,9th,A,Islamabad,74.0,,96.0,49.0,89.5
+S0014,Zeeshan Farooq,M,10th,B,ISLAMABAD,63.0,68.0,88.0,78.0,95.0
+S0135,Omar Javed,male,9th,A,Taxila,67.0,55.0,57.0,105.0,
+S0232,Tahir Malik,female,11th,A,Taxila,81.0,94.0,53.0,61.0,84.5
+S0230,Junaid Farooq,M,10th,B,Islamabad,62.0,73.0,75.0,110.0,86.1
+S0215,Iqra Khan,female,12th,C,KARACHI,46.0,80.0,91.0,86.0,85.8
+S0106,Junaid Chaudhry,female,9th,B,Lahore,67.0,79.0,113.0,67.0,70.8
+S0096,Tahir Farooq,Female,11th,A,Taxila,86.0,68.0,63.0,72.0,85.7
+S0085,Nimra Javed,M,11th,C,Taxila,78.0,88.0,92.0,57.0,100.0
+S0006,Amna Sheikh,Male,10th,A,Lahore,80.0,83.0,63.0,80.0,87.3
+S0133,Omar Farooq,Male,12th,A,Taxila,71.0,59.0,53.0,46.0,93.1
+S0051,Tahir Butt,male,9th,C,ISLAMABAD,47.0,81.0,90.0,40.0,96.1
+S0231,Hassan Malik,Female,12th,B,Wah Cantt,68.0,49.0,57.0,44.0,84.2
+S0154,Fatima Malik,Male,10th,B,Rawalpindi,62.0,79.0,80.0,56.0,81.2
+S0101,Asad Sheikh,Female,10th,A,Islamabad,62.0,53.0,72.0,105.0,82.8
+S0144,Rabia Sheikh,Male,11th,A,Taxila,65.0,70.0,,59.0,90.6
+S0245,Junaid Siddiqui,F,11th,B,Rawalpindi,59.0,79.0,53.0,76.0,91.8
+S0079,Sadia Khan,,11th,B,Lahore,60.0,71.0,65.0,48.0,95.5
+S0025,Tahir Khan,female,11th,A,Taxila,86.0,39.0,74.0,58.0,72.5
+S0129,Asad Chaudhry,Female,11th,B,Karachi,49.0,49.0,52.0,72.0,92.0
+S0205,Talha Chaudhry,,11th,C,Wah Cantt,39.0,84.0,65.0,55.0,74.1
+S0009,Tahir Farooq,Male,9th,B,Lahore,,64.0,98.0,84.0,88.0
+S0243,Komal Khan,Female,12th,A,Karachi,70.0,33.0,83.0,77.0,85.3
+S0054,Areeba Raza,F,11th,A,Islamabad,56.0,59.0,75.0,53.0,77.0
+S0028,Bilal Raza,Female,10th,C,Rawalpindi,95.0,74.0,66.0,78.0,81.5
+S0224,Omar Raza,M,10th,B,Lahore,53.0,80.0,59.0,63.0,
+S0093,Sadia Malik,F,10th,A,Karachi,63.0,62.0,84.0,106.0,72.6
+S0033,Rizwan Chaudhry,F,9th,B,Taxila,67.0,64.0,,54.0,73.4
+S0023,Salman Siddiqui,F,11th,A,Rawalpindi,75.0,,56.0,70.0,75.0
+S0213,Waqas Farooq,F,12th,B,Taxila,81.0,63.0,60.0,65.0,99.7
+S0171,Junaid Khan,female,11th,A,Islamabad,69.0,57.0,73.0,77.0,94.7
+S0188,Noor Farooq,Male,9th,B,Karachi,75.0,72.0,73.0,60.0,80.2
+S0190,Ayesha Sheikh,M,9th,A,Islamabad,,64.0,71.0,77.0,92.8
+S0238,Omar Chaudhry,female,9th,A,Karachi,76.0,72.0,38.0,66.0,91.4
+S0036,Sana Khan,Male,10th,A,Islamabad,49.0,58.0,73.0,65.0,88.6
+S0121,Sana Malik,Male,9th,C,Taxila,76.0,50.0,54.0,68.0,91.9
+S0020,Shahzaib Sheikh,Female,10th,B,Karachi,60.0,105.0,40.0,56.0,88.8
+S0146,Usman Sheikh,Female,11th,B,Islamabad,101.0,60.0,77.0,85.0,98.1
+S0045,Sidra Malik,Female,11th,A,Rawalpindi,66.0,65.0,90.0,64.0,84.0
+S0069,Kamran Sheikh,male,11th,A,Taxila,76.0,83.0,61.0,63.0,85.9
+S0077,Rizwan Siddiqui,Female,10th,A,Lahore,67.0,76.0,73.0,,87.4
+S0113,Sadia Chaudhry,Female,12th,C,Karachi,66.0,57.0,61.0,,70.0
+S0241,Noor Siddiqui,male,10th,B,Taxila,79.0,58.0,-5.0,61.0,67.3
+S0012,Noor Sheikh,female,11th,A,Karachi,68.0,90.0,66.0,95.0,92.6
+S0056,Shahzaib Raza,M,12th,C,Islamabad,75.0,71.0,55.0,71.0,78.4
+S0233,Mahnoor Farooq,Female,11th,C,Rawalpindi,65.0,75.0,72.0,52.0,100.0
+S0010,Kinza Farooq,M,9th,C,Rawalpindi,66.0,54.0,110.0,49.0,79.4
+S0030,Ayesha Malik,female,12th,B,Wah Cantt,86.0,59.0,78.0,68.0,
+S0040,Areeba Khan,Male,11th,B,Karachi,74.0,76.0,110.0,77.0,89.3
+S0229,Hassan Javed,F,11th,A,Taxila,66.0,67.0,63.0,92.0,90.1
+S0057,Junaid Chaudhry,M,10th,A,Islamabad,72.0,88.0,31.0,65.0,88.8
+S0186,Laiba Javed,F,11th,B,Wah Cantt,60.0,71.0,71.0,78.0,67.6
+S0246,Areeba Javed,F,12th,A,Lahore,41.0,59.0,61.0,53.0,74.8
+S0092,Hamza Sheikh,female,9th,A,Islamabad,63.0,59.0,75.0,70.0,76.4
+S0060,Shahzaib Chaudhry,F,11th,B,Islamabad,85.0,71.0,78.0,70.0,84.2
+S0221,Zainab Butt,female,9th,C,Karachi,57.0,87.0,79.0,80.0,85.0
+S0037,Hina Siddiqui,F,12th,A,Lahore,56.0,71.0,92.0,45.0,77.0
+S0157,Amna Raza,Male,11th,A,LAHORE,65.0,70.0,76.0,87.0,56.0
+S0226,Iqra Butt,Female,10th,A,Lahore,79.0,86.0,69.0,65.0,85.4
+S0053,Waqas Siddiqui,male,9th,C,Wah Cantt,67.0,62.0,68.0,68.0,75.1
+S0187,Hina Iqbal,female,12th,B,Lahore,93.0,97.0,77.0,64.0,74.7
+S0049,Kamran Farooq,female,9th,C,Lahore,73.0,69.0,72.0,67.0,100.0
+S0159,Ahmed Butt,M,11th,B,Wah Cantt,50.0,68.0,91.0,71.0,68.2
+S0189,Sidra Farooq,F,9th,C,Karachi,61.0,54.0,53.0,48.0,85.1
+S0142,Ali Chaudhry,male,10th,A,Lahore,66.0,49.0,50.0,77.0,78.6
+S0097,Bilal Sheikh,female,10th,B,Rawalpindi,85.0,,65.0,73.0,85.1
+S0076,Laiba Sheikh,F,9th,B,Taxila,76.0,74.0,72.0,46.0,84.5
+S0195,Ali Sheikh,female,11th,C,Taxila,71.0,56.0,108.0,55.0,77.6
+S0179,Rizwan Javed,Male,10th,C,Rawalpindi,63.0,62.0,81.0,80.0,91.1
+S0161,Hamza Siddiqui,Male,12th,C,Lahore,69.0,73.0,99.0,90.0,79.3
+S0081,Hassan Malik,M,12th,C,Islamabad,69.0,100.0,91.0,43.0,100.0
+S0145,Hina Siddiqui,F,12th,B,Lahore,,73.0,73.0,46.0,87.8
+S0100,Komal Siddiqui,F,11th,A,Taxila,73.0,56.0,65.0,79.0,69.2
+S0125,Kamran Iqbal,female,11th,C,Taxila,61.0,75.0,80.0,47.0,100.0
+S0199,Hina Raza,male,12th,A,Karachi,64.0,80.0,63.0,-5.0,79.3
+S0118,Haris Chaudhry,male,10th,C,Taxila,74.0,60.0,71.0,36.0,84.9
+S0086,Hamza Chaudhry,female,9th,A,Lahore,83.0,55.0,43.0,60.0,75.5
+S0002,Kamran Farooq,F,11th,A,Wah Cantt,67.0,66.0,87.0,70.0,67.9
+S0114,Kamran Chaudhry,Female,12th,A,Wah Cantt,58.0,60.0,59.0,60.0,93.0
+S0210,Faisal Malik,female,12th,A,Wah Cantt,51.0,62.0,96.0,,81.2
+S0175,Komal Chaudhry,Female,11th,A,Rawalpindi,52.0,69.0,74.0,,95.5
+S0196,Rabia Khan,M,10th,A,Taxila,,72.0,55.0,62.0,82.6
+S0191,Tahir Javed,F,12th,A,Lahore,81.0,64.0,64.0,61.0,80.7
+S0249,Waqas Sheikh,female,10th,A,LAHORE,75.0,,81.0,28.0,93.1
+S0166,Hamza Chaudhry,F,9th,B,Taxila,54.0,94.0,52.0,63.0,87.0
+S0237,Hamza Siddiqui,F,12th,C,Karachi,63.0,64.0,64.0,52.0,84.1
+S0117,Hamza Malik,Male,10th,A,Rawalpindi,82.0,83.0,39.0,73.0,79.7
+S0019,Shahzaib Khan,Male,12th,A,Lahore,52.0,64.0,99.0,73.0,83.7
+S0193,Talha Javed,male,9th,C,Lahore,61.0,,79.0,83.0,68.3
+S0247,Danish Javed,Male,10th,B,Rawalpindi,61.0,94.0,63.0,73.0,86.6
+S0055,Waqas Chaudhry,Male,9th,B,RAWALPINDI,55.0,96.0,64.0,61.0,97.2
+S0239,Waqas Malik,F,12th,A,WAH CANTT,78.0,57.0,66.0,79.0,96.3
+S0029,Salman Raza,female,9th,C,Wah Cantt,72.0,,79.0,79.0,74.0
+S0128,Kinza Raza,M,10th,A,Lahore,64.0,45.0,65.0,51.0,78.6
+S0240,Kamran Siddiqui,male,9th,C,Wah Cantt,79.0,47.0,72.0,80.0,81.2
+S0050,Junaid Raza,F,12th,C,Karachi,79.0,92.0,71.0,94.0,78.5
+S0095,Waqas Farooq,F,12th,B,Wah Cantt,87.0,75.0,58.0,79.0,74.2
+S0021,Hina Khan,male,9th,A,Wah Cantt,59.0,58.0,78.0,81.0,94.5
+S0038,Ayesha Chaudhry,Female,9th,C,Lahore,84.0,74.0,61.0,,82.5
+S0177,Sadia Siddiqui,M,10th,A,Islamabad,70.0,71.0,82.0,69.0,69.0
+S0080,Shahzaib Khan,male,11th,A,Wah Cantt,84.0,66.0,68.0,80.0,92.8
+S0124,Shahzaib Iqbal,M,12th,B,Karachi,107.0,68.0,70.0,58.0,90.7
+S0034,Tahir Javed,male,10th,B,Rawalpindi,65.0,72.0,79.0,84.0,83.7
+S0172,Bilal Malik,F,10th,C,Islamabad,76.0,89.0,70.0,88.0,82.2
+S0008,Adeel Sheikh,Female,11th,A,Karachi,,84.0,74.0,73.0,97.4
+S0063,Nimra Butt,Female,11th,C,Karachi,60.0,85.0,72.0,55.0,90.7
+S0061,Omar Khan,Male,10th,A,Rawalpindi,56.0,77.0,59.0,55.0,76.3
+S0151,Ahmed Khan,Male,12th,B,Wah Cantt,46.0,57.0,80.0,75.0,74.2
+S0158,Zainab Khan,Female,9th,C,Taxila,65.0,56.0,105.0,74.0,88.2
+S0098,Mariam Raza,male,10th,C,Wah Cantt,63.0,82.0,57.0,86.0,73.6
+S0111,Kamran Farooq,Male,12th,C,Karachi,59.0,49.0,32.0,47.0,98.8
+S0105,Mahnoor Malik,Female,10th,A,Taxila,72.0,60.0,82.0,58.0,80.6
+S0070,Hina Farooq,male,9th,B,Rawalpindi,89.0,45.0,78.0,85.0,98.5
+S0091,Kamran Raza,M,10th,C,LAHORE,81.0,67.0,56.0,86.0,92.7
+S0180,Hina Raza,male,9th,C,Karachi,91.0,63.0,74.0,32.0,82.5
+S0130,Zainab Butt,M,9th,C,Islamabad,48.0,76.0,77.0,61.0,95.6
+S0061,Omar Khan,Male,10th,A,Rawalpindi,56.0,77.0,59.0,55.0,76.3
+S0192,Iqra Raza,male,12th,B,Taxila,61.0,66.0,71.0,94.0,73.5
+S0003,Danish Khan,M,9th,A,Wah Cantt,91.0,94.0,60.0,80.0,78.9
+S0067,Areeba Farooq,F,9th,B,Taxila,98.0,89.0,78.0,110.0,78.4
+S0151,Ahmed Khan,Male,12th,B,Wah Cantt,46.0,57.0,80.0,75.0,74.2
+S0219,Iqra Khan,F,11th,B,Wah Cantt,90.0,69.0,78.0,73.0,100.0
+S0082,Salman Malik,female,11th,A,Taxila,78.0,67.0,86.0,76.0,84.4
+S0027,Tahir Raza,Female,12th,C,Wah Cantt,54.0,52.0,84.0,79.0,79.3
+S0143,Iqra Malik,,10th,A,Islamabad,84.0,85.0,,98.0,95.3
+S0168,Usman Malik,M,11th,A,Wah Cantt,69.0,74.0,58.0,27.0,77.9
+S0094,Ali Malik,male,11th,A,Rawalpindi,97.0,95.0,64.0,66.0,100.0
+S0173,Waqas Farooq,Female,12th,B,Wah Cantt,82.0,69.0,70.0,50.0,86.5
+S0149,Sadia Chaudhry,,9th,B,Wah Cantt,78.0,88.0,93.0,78.0,93.7
+S0225,Adeel Chaudhry,female,10th,B,Karachi,66.0,74.0,85.0,105.0,69.8
+S0167,Komal Khan,female,9th,B,Wah Cantt,72.0,76.0,51.0,76.0,85.4
+S0120,Adeel Malik,Female,10th,A,Lahore,84.0,60.0,97.0,59.0,85.1
+S0150,Amna Butt,Female,11th,B,Rawalpindi,86.0,64.0,68.0,84.0,90.6
+S0139,Bilal Javed,F,12th,C,Rawalpindi,81.0,63.0,60.0,50.0,95.1
+S0170,Sana Sheikh,M,11th,C,Lahore,92.0,76.0,63.0,63.0,86.2
+S0108,Usman Farooq,F,9th,C,Wah Cantt,-5.0,63.0,68.0,81.0,94.3
+S0203,Haris Raza,Male,12th,A,Rawalpindi,67.0,,73.0,-5.0,91.2
+S0148,Tahir Iqbal,Male,12th,A,TAXILA,73.0,86.0,75.0,69.0,98.2
+S0022,Mahnoor Chaudhry,female,9th,C,Wah Cantt,57.0,81.0,110.0,56.0,91.8
+S0001,Amna Farooq,female,10th,C,Rawalpindi,68.0,-5.0,51.0,81.0,84.5
+S0201,Komal Raza,male,12th,C,Islamabad,71.0,80.0,52.0,81.0,100.0
+S0185,Zainab Raza,female,10th,B,Islamabad,50.0,77.0,83.0,50.0,90.9
+S0132,Kinza Sheikh,Female,10th,B,Taxila,69.0,75.0,97.0,62.0,78.5
+S0250,Adeel Javed,Female,9th,A,Islamabad,52.0,41.0,58.0,48.0,85.1
+S0153,Ali Malik,M,12th,A,Taxila,70.0,81.0,78.0,69.0,
+S0107,Ayesha Khan,M,10th,C,Taxila,47.0,84.0,92.0,69.0,100.0
