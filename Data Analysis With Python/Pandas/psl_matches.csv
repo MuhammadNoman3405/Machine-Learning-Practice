@@ -1,174 +1,174 @@
-MatchID,Season,Date,Team1,Team2,Venue,TossWinner,TossDecision,Team1_Score,Team2_Score,Winner,PlayerOfTheMatch
-PSL0026,2021,07/03/2021,Karachi Kings,Lahore Qalandars,Rawalpindi Cricket Stadium,Lahore Qalandars,Field,120/2,130/10,Karachi Kings,Player 39
-PSL0053,2022,2022-02-28,Peshawar Zalmi,multan sultans,"Gaddafi Stadium, Lahore",Multan Sultans,Field,150/4,138/6,Peshawar Zalmi,Player 8
-PSL0150,2025,23-Feb-2025,Lahore Qalandars,Multan Sultans,Pindi Cricket Stadium,Lahore Qalandars,Bat,161/6,135/5,Multan Sultans,Player 29
-PSL0089,2023,02/03/2023,Karachi Kings,Quetta Gladiators,Rawalpindi Cricket Stadium,Karachi Kings,Bat,141/4,183/7,Quetta Gladiators,Player 40
-PSL0114,2024,2024-02-21,Karachi Kings,Islamabad United,"National Stadium, Karachi",Karachi Kings,Bat,125/5,151/2,Karachi Kings,Player 5
-PSL0120,2024,27/02/2024,Islamabad United,Multan Sultans,"National Stadium, Karachi",Multan Sultans,Field,193/3,180/10,Multan Sultans,Player 3
-PSL0002,2021,11/02/2021,QUETTA GLADIATORS,Karachi Kings,Multan Cricket Stadium,Quetta Gladiators,Bat,182/6,202/3,,
-PSL0024,2021,05-Mar-2021,Islamabad United,Karachi Kings,"National Stadium, Karachi",Islamabad United,Field,148/5,163/3,Karachi Kings,Player 28
-PSL0080,2023,21-Feb-2023,Multan Sultans,Karachi Kings,Multan Cricket Stadium,Multan Sultans,Bat,156/6,173/6,Multan Sultans,Player 27
-PSL0122,2024,29-Feb-2024,Islamabad United,Multan Sultans,"National Stadium, Karachi",Islamabad United,Bat,185/8,148/4,,
-PSL0071,2023,12-Feb-2023,Peshawar Zalmi,Islamabad United,Rawalpindi Cricket Stadium,Peshawar Zalmi,Bat,202/10,150/2,Peshawar Zalmi,Player 21
-PSL0005,2021,2021-02-14,Islamabad United,Karachi Kings,"National Stadium, Karachi",Karachi Kings,Bat,189/7,213/9,Islamabad United,Player 33
-PSL0041,2022,2022-02-16,Quetta Gladiators,Multan Sultans,Rawalpindi Cricket Stadium,Quetta Gladiators,Field,168/7,136/5,,
-PSL0077,2023,18-Feb-2023,Lahore Qalandars,Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,Bat,131/6,205/6,Lahore Qalandars,Player 1
-PSL0104,2024,11/02/2024,Multan Sultans,Lahore Qalandars,Pindi Cricket Stadium,Lahore Qalandars,Bat,175/9,182/8,Multan Sultans,Player 13
-PSL0051,2022,26/02/2022,Quetta Gladiators,Islamabad United,Multan Cricket Stadium,Islamabad United,Field,138/7,180/10,Islamabad United,Player 28
-PSL0163,2025,08-Mar-2025,Lahore Qalandars,Quetta Gladiators,"National Stadium, Karachi",Lahore Qalandars,Bat,213/10,,Quetta Gladiators,Player 40
-PSL0169,2025,2025-03-14,Multan Sultans,Lahore Qalandars,Pindi Cricket Stadium,Lahore Qalandars,Bat,194/7,146/9,Multan Sultans,Player 34
-PSL0018,2021,27-Feb-2021,Peshawar Zalmi,Multan Sultans,Pindi Cricket Stadium,Multan Sultans,Field,161/5,200/10,Multan Sultans,Player 9
-PSL0166,2025,11/03/2025,Lahore Qalandars,Islamabad United,Pindi Cricket Stadium,Islamabad United,Field,135/6,135/9,Islamabad United,Player 13
-PSL0153,2025,2025-02-26,Multan Sultans,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,Bat,120/3,165/6,Peshawar Zalmi,Player 15
-PSL0004,2021,2021-02-13,Lahore Qalandars,Quetta Gladiators,Pindi Cricket Stadium,Lahore Qalandars,Field,201/9,120/2,Quetta Gladiators,Player 21
-PSL0066,2022,13-Mar-2022,Islamabad United,Multan Sultans,"National Stadium, Karachi",Multan Sultans,Field,151/4,118/10,Multan Sultans,Player 33
-PSL0058,2022,05-Mar-2022,Lahore Qalandars,Multan Sultans,Multan Cricket Stadium,Lahore Qalandars,Bat,124/6,136/2,Lahore Qalandars,Player 6
-PSL0161,2025,2025-03-06,Peshawar Zalmi,Lahore Qalandars,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Field,165/3,157/5,Lahore Qalandars,Player 17
-PSL0027,2021,08/03/2021,Multan Sultans,Quetta Gladiators,Rawalpindi Cricket Stadium,Quetta Gladiators,Bat,153/2,136/3,Quetta Gladiators,Player 21
-PSL0028,2021,09-Mar-2021,Karachi Kings,Islamabad United,Multan Cricket Stadium,Islamabad United,Bat,216/2,148/9,Islamabad United,Player 26
-PSL0118,2024,2024-02-25,Islamabad United,Quetta Gladiators,Pindi Cricket Stadium,Islamabad United,Field,141/6,213/10,,
-PSL0133,2024,11/03/2024,Karachi Kings,Lahore Qalandars,Multan Cricket Stadium,Lahore Qalandars,Field,209/8,162/3,Karachi Kings,Player 29
-PSL0147,2025,2025-02-20,Multan Sultans,Quetta Gladiators,"Gaddafi Stadium, Lahore",Quetta Gladiators,Field,132/7,158/5,Multan Sultans,Player 30
-PSL0057,2022,2022-03-04,Karachi Kings,Multan Sultans,"Gaddafi Stadium, Lahore",Multan Sultans,Bat,141/2,,Karachi Kings,Player 17
-PSL0031,2021,12-Mar-2021,Lahore Qalandars,Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,Bat,140/4,132/7,Lahore Qalandars,Player 7
-PSL0129,2024,07-Mar-2024,Karachi Kings,Lahore Qalandars,Pindi Cricket Stadium,Lahore Qalandars,Field,178/4,143/2,Karachi Kings,Player 2
-PSL0063,2022,10-Mar-2022,Lahore Qalandars,Islamabad United,"Gaddafi Stadium, Lahore",Islamabad United,Field,176/7,110/9,Lahore Qalandars,Player 20
-PSL0128,2024,06-Mar-2024,Quetta Gladiators,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,Field,194/5,186/4,Lahore Qalandars,Player 31
-PSL0148,2025,21-Feb-2025,KARACHI KINGS,Quetta Gladiators,Rawalpindi Cricket Stadium,Quetta Gladiators,Field,154/8,184/5,Karachi Kings,Player 36
-PSL0160,2025,2025-03-05,Quetta Gladiators,Islamabad United,Rawalpindi Cricket Stadium,Islamabad United,Bat,,183/8,Quetta Gladiators,Player 15
-PSL0081,2023,22/02/2023,Multan Sultans,Peshawar Zalmi,"National Stadium, Karachi",Peshawar Zalmi,Field,166/7,144/2,Multan Sultans,Player 38
-PSL0070,2023,11/02/2023,Peshawar Zalmi,Multan Sultans,Multan Cricket Stadium,Peshawar Zalmi,Bat,168/3,166/2,Multan Sultans,Player 13
-PSL0098,2023,11/03/2023,ISLAMABAD UNITED,Lahore Qalandars,"Gaddafi Stadium, Lahore",Islamabad United,Field,135/6,167/5,Islamabad United,Player 37
-PSL0068,2022,2022-03-15,Peshawar Zalmi,Islamabad United,Pindi Cricket Stadium,Peshawar Zalmi,Field,174/9,110/7,Peshawar Zalmi,Player 21
-PSL0127,2024,05/03/2024,Multan Sultans,Islamabad United,"National Stadium, Karachi",Multan Sultans,Field,122/7,173/2,Islamabad United,Player 32
-PSL0113,2024,2024-02-20,Islamabad United,Multan Sultans,Rawalpindi Cricket Stadium,Islamabad United,Bat,189/10,122/5,Multan Sultans,Player 20
-PSL0075,2023,16/02/2023,Quetta Gladiators,Karachi Kings,"National Stadium, Karachi",Karachi Kings,Bat,123/7,174/8,Quetta Gladiators,Player 19
-PSL0158,2025,03-Mar-2025,QUETTA GLADIATORS,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,Field,212/4,183/7,Lahore Qalandars,Player 15
-PSL0001,2021,2021-02-10,Multan Sultans,Islamabad United,"National Stadium, Karachi",Islamabad United,Field,174/3,127/9,Islamabad United,Player 38
-PSL0045,2022,20-Feb-2022,Multan Sultans,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,Bat,131/4,214/7,Peshawar Zalmi,Player 34
-PSL0095,2023,08/03/2023,Lahore Qalandars,Quetta Gladiators,Multan Cricket Stadium,Lahore Qalandars,Bat,203/7,180/10,Lahore Qalandars,Player 20
-PSL0030,2021,11/03/2021,Peshawar Zalmi,Quetta Gladiators,"National Stadium, Karachi",Peshawar Zalmi,Bat,217/8,126/10,Peshawar Zalmi,Player 30
-PSL0036,2022,11/02/2022,Multan Sultans,Lahore Qalandars,Pindi Cricket Stadium,Lahore Qalandars,Field,140/4,138/10,Lahore Qalandars,Player 25
-PSL0050,2022,25-Feb-2022,Lahore Qalandars,Karachi Kings,"National Stadium, Karachi",Lahore Qalandars,Bat,122/6,176/8,Lahore Qalandars,Player 13
-PSL0131,2024,09/03/2024,Peshawar Zalmi,Lahore Qalandars,"National Stadium, Karachi",Peshawar Zalmi,Field,170/6,114/4,Lahore Qalandars,Player 29
-PSL0115,2024,22/02/2024,Quetta Gladiators,Peshawar Zalmi,"National Stadium, Karachi",Quetta Gladiators,Field,167/7,210/10,Peshawar Zalmi,Player 24
-PSL0013,2021,22-Feb-2021,Islamabad United,Peshawar Zalmi,Multan Cricket Stadium,Islamabad United,Bat,219/3,171/9,Islamabad United,Player 15
-PSL0023,2021,2021-03-04,ISLAMABAD UNITED,Karachi Kings,Pindi Cricket Stadium,Islamabad United,Bat,141/7,168/6,,
-PSL0135,2024,13/03/2024,Peshawar Zalmi,Islamabad United,"National Stadium, Karachi",Peshawar Zalmi,Bat,162/5,147/4,Islamabad United,Player 2
-PSL0111,2024,18-Feb-2024,Karachi Kings,Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,Bat,127/3,112/3,,
-PSL0035,2022,10-Feb-2022,Quetta Gladiators,Lahore Qalandars,Multan Cricket Stadium,Lahore Qalandars,Bat,193/10,208/10,Lahore Qalandars,Player 26
-PSL0009,2021,18/02/2021,Peshawar Zalmi,Multan Sultans,"Gaddafi Stadium, Lahore",Multan Sultans,Field,158/5,204/5,Multan Sultans,Player 15
-PSL0078,2023,2023-02-19,Quetta Gladiators,Lahore Qalandars,Rawalpindi Cricket Stadium,Lahore Qalandars,Field,179/3,160/7,Quetta Gladiators,Player 7
-PSL0100,2023,2023-03-13,Islamabad United,Quetta Gladiators,"National Stadium, Karachi",Islamabad United,Field,165/7,178/5,Quetta Gladiators,Player 7
-PSL0165,2025,2025-03-10,Islamabad United,Quetta Gladiators,"National Stadium, Karachi",Islamabad United,Bat,151/5,145/5,Quetta Gladiators,Player 3
-PSL0124,2024,2024-03-02,Quetta Gladiators,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,Bat,205/8,,,
-PSL0125,2024,03-Mar-2024,Karachi Kings,Lahore Qalandars,Rawalpindi Cricket Stadium,Lahore Qalandars,Field,133/8,124/10,Lahore Qalandars,Player 32
-PSL0034,2021,15/03/2021,Islamabad United,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,Field,170/5,210/8,Islamabad United,Player 12
-PSL0093,2023,2023-03-06,Karachi Kings,Multan Sultans,"Gaddafi Stadium, Lahore",Multan Sultans,Bat,157/4,133/7,Multan Sultans,Player 9
-PSL0042,2022,17/02/2022,Lahore Qalandars,Multan Sultans,Rawalpindi Cricket Stadium,Multan Sultans,Field,209/8,145/8,Multan Sultans,Player 16
-PSL0117,2024,24/02/2024,Quetta Gladiators,Lahore Qalandars,Pindi Cricket Stadium,Lahore Qalandars,Bat,157/5,152/9,Lahore Qalandars,Player 39
-PSL0121,2024,2024-02-28,Lahore Qalandars,Islamabad United,"Gaddafi Stadium, Lahore",Lahore Qalandars,Field,203/5,196/9,Islamabad United,Player 29
-PSL0102,2023,15-Mar-2023,Quetta Gladiators,Multan Sultans,"Gaddafi Stadium, Lahore",Multan Sultans,Bat,151/6,143/6,Multan Sultans,Player 12
-PSL0044,2022,2022-02-19,Multan Sultans,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,Field,159/4,195/8,Peshawar Zalmi,Player 14
-PSL0059,2022,06/03/2022,Peshawar Zalmi,Multan Sultans,Multan Cricket Stadium,Multan Sultans,Field,126/10,164/2,Peshawar Zalmi,Player 10
-PSL0139,2025,12/02/2025,Multan Sultans,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,Field,208/7,162/7,Multan Sultans,Player 2
-PSL0170,2025,15/03/2025,Karachi Kings,Lahore Qalandars,Multan Cricket Stadium,Karachi Kings,Field,125/4,141/6,Karachi Kings,Player 15
-PSL0107,2024,2024-02-14,Islamabad United,Peshawar Zalmi,"National Stadium, Karachi",Peshawar Zalmi,Bat,145/8,129/10,Islamabad United,Player 18
-PSL0152,2025,2025-02-25,Peshawar Zalmi,Karachi Kings,Pindi Cricket Stadium,Karachi Kings,Bat,170/4,116/5,Karachi Kings,Player 39
-PSL0119,2024,2024-02-26,Islamabad United,Multan Sultans,Pindi Cricket Stadium,Islamabad United,Field,208/5,158/5,Multan Sultans,Player 8
-PSL0073,2023,14-Feb-2023,Karachi Kings,Islamabad United,Rawalpindi Cricket Stadium,Karachi Kings,Bat,138/5,180/7,Karachi Kings,Player 37
-PSL0157,2025,02-Mar-2025,KARACHI KINGS,quetta gladiators,Multan Cricket Stadium,Karachi Kings,Bat,148/10,190/10,Quetta Gladiators,Player 29
-PSL0012,2021,21-Feb-2021,Karachi Kings,Peshawar Zalmi,Multan Cricket Stadium,Karachi Kings,Field,194/10,155/10,Karachi Kings,Player 33
-PSL0076,2023,17-Feb-2023,Multan Sultans,Lahore Qalandars,"National Stadium, Karachi",Lahore Qalandars,Bat,123/8,144/9,Multan Sultans,Player 2
-PSL0097,2023,2023-03-10,Islamabad United,Karachi Kings,Pindi Cricket Stadium,Islamabad United,Bat,196/4,110/7,Islamabad United,Player 24
-PSL0112,2024,19-Feb-2024,Quetta Gladiators,Lahore Qalandars,"Gaddafi Stadium, Lahore",Quetta Gladiators,Field,134/8,192/7,Lahore Qalandars,Player 20
-PSL0006,2021,15/02/2021,Peshawar Zalmi,Lahore Qalandars,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Field,181/3,179/9,Lahore Qalandars,Player 31
-PSL0130,2024,2024-03-08,Quetta Gladiators,karachi kings,"Gaddafi Stadium, Lahore",Karachi Kings,Bat,120/7,122/9,Quetta Gladiators,Player 20
-PSL0168,2025,13/03/2025,Peshawar Zalmi,Multan Sultans,Pindi Cricket Stadium,Multan Sultans,Field,184/2,214/6,Multan Sultans,Player 30
-PSL0025,2021,2021-03-06,Karachi Kings,Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,Field,121/5,121/5,Peshawar Zalmi,Player 22
-PSL0088,2023,01-Mar-2023,Karachi Kings,Multan Sultans,Pindi Cricket Stadium,Multan Sultans,Bat,177/2,201/3,Multan Sultans,Player 32
-PSL0132,2024,10-Mar-2024,Karachi Kings,Peshawar Zalmi,"National Stadium, Karachi",Karachi Kings,Bat,,205/9,,
-PSL0091,2023,04-Mar-2023,Multan Sultans,Islamabad United,Rawalpindi Cricket Stadium,Multan Sultans,Bat,220/3,206/6,Multan Sultans,Player 38
-PSL0056,2022,03/03/2022,Lahore Qalandars,Islamabad United,Pindi Cricket Stadium,Lahore Qalandars,Bat,155/4,155/2,Islamabad United,Player 11
-PSL0079,2023,20-Feb-2023,Islamabad United,Karachi Kings,Pindi Cricket Stadium,Islamabad United,Bat,188/10,145/7,Karachi Kings,Player 9
-PSL0017,2021,26-Feb-2021,Islamabad United,Karachi Kings,Pindi Cricket Stadium,Islamabad United,Bat,198/6,158/5,Islamabad United,Player 31
-PSL0101,2023,14/03/2023,Peshawar Zalmi,Islamabad United,Pindi Cricket Stadium,Peshawar Zalmi,Field,137/8,135/3,,
-PSL0167,2025,2025-03-12,Multan Sultans,Quetta Gladiators,"Gaddafi Stadium, Lahore",Multan Sultans,Bat,153/7,194/6,Quetta Gladiators,Player 6
-PSL0145,2025,18/02/2025,Multan Sultans,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,Bat,145/4,174/5,Multan Sultans,Player 37
-PSL0020,2021,2021-03-01,Multan Sultans,Karachi Kings,Multan Cricket Stadium,Multan Sultans,Bat,183/2,183/6,Multan Sultans,Player 9
-PSL0043,2022,2022-02-18,Karachi Kings,Lahore Qalandars,Pindi Cricket Stadium,Lahore Qalandars,Field,152/2,161/2,,
-PSL0141,2025,14/02/2025,Islamabad United,Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,Field,145/2,214/2,Peshawar Zalmi,Player 26
-PSL0140,2025,13/02/2025,Lahore Qalandars,Quetta Gladiators,Multan Cricket Stadium,Lahore Qalandars,Field,199/4,138/8,Lahore Qalandars,Player 29
-PSL0155,2025,28-Feb-2025,Quetta Gladiators,Peshawar Zalmi,Rawalpindi Cricket Stadium,Quetta Gladiators,Bat,170/3,145/9,Peshawar Zalmi,Player 12
-PSL0074,2023,15-Feb-2023,Quetta Gladiators,Multan Sultans,"Gaddafi Stadium, Lahore",Quetta Gladiators,Bat,,123/10,Multan Sultans,Player 30
-PSL0033,2021,14/03/2021,Islamabad United,Peshawar Zalmi,Pindi Cricket Stadium,Islamabad United,Field,183/6,164/5,Peshawar Zalmi,Player 34
-PSL0121,2024,2024-02-28,Lahore Qalandars,Islamabad United,"Gaddafi Stadium, Lahore",Lahore Qalandars,Field,203/5,196/9,Islamabad United,Player 29
-PSL0007,2021,2021-02-16,Islamabad United,Quetta Gladiators,"National Stadium, Karachi",Quetta Gladiators,Bat,193/9,118/7,Islamabad United,Player 36
-PSL0047,2022,2022-02-22,Multan Sultans,Peshawar Zalmi,Pindi Cricket Stadium,Multan Sultans,Bat,178/2,126/2,Multan Sultans,Player 40
-PSL0040,2022,15-Feb-2022,Islamabad United,Multan Sultans,"National Stadium, Karachi",Multan Sultans,Bat,219/4,151/3,Islamabad United,Player 30
-PSL0011,2021,2021-02-20,Karachi Kings,multan sultans,Pindi Cricket Stadium,Multan Sultans,Field,194/9,176/5,Multan Sultans,Player 16
-PSL0055,2022,2022-03-02,Multan Sultans,Karachi Kings,"National Stadium, Karachi",Multan Sultans,Bat,190/3,157/9,Multan Sultans,Player 33
-PSL0123,2024,2024-03-01,Peshawar Zalmi,Karachi Kings,Multan Cricket Stadium,Karachi Kings,Bat,175/4,199/9,Peshawar Zalmi,Player 31
-PSL0083,2023,2023-02-24,Peshawar Zalmi,lahore qalandars,Pindi Cricket Stadium,Lahore Qalandars,Bat,196/4,124/8,Peshawar Zalmi,Player 18
-PSL0143,2025,2025-02-16,Lahore Qalandars,Islamabad United,Multan Cricket Stadium,Islamabad United,Bat,135/6,149/5,,
-PSL0159,2025,2025-03-04,Karachi Kings,Islamabad United,Multan Cricket Stadium,Islamabad United,Bat,190/8,198/5,Karachi Kings,Player 30
-PSL0038,2022,2022-02-13,Lahore Qalandars,Quetta Gladiators,Rawalpindi Cricket Stadium,Quetta Gladiators,Bat,191/8,138/5,Quetta Gladiators,Player 30
-PSL0069,2023,10-Feb-2023,Lahore Qalandars,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Field,,121/4,Lahore Qalandars,Player 4
-PSL0136,2024,2024-03-14,Karachi Kings,Islamabad United,Rawalpindi Cricket Stadium,Islamabad United,Field,172/9,174/3,Islamabad United,Player 33
-PSL0142,2025,15/02/2025,Lahore Qalandars,Multan Sultans,"National Stadium, Karachi",Lahore Qalandars,Bat,133/3,170/5,Lahore Qalandars,Player 24
-PSL0164,2025,2025-03-09,Quetta Gladiators,Lahore Qalandars,Multan Cricket Stadium,Lahore Qalandars,Bat,188/8,189/3,Lahore Qalandars,Player 35
-PSL0090,2023,03/03/2023,Multan Sultans,Peshawar Zalmi,"National Stadium, Karachi",Multan Sultans,Field,214/9,128/7,Multan Sultans,Player 16
-PSL0037,2022,12/02/2022,Lahore Qalandars,Multan Sultans,"National Stadium, Karachi",Multan Sultans,Bat,173/2,146/2,Multan Sultans,Player 6
-PSL0096,2023,09-Mar-2023,Peshawar Zalmi,islamabad united,Rawalpindi Cricket Stadium,Peshawar Zalmi,Field,189/3,155/2,Islamabad United,Player 16
-PSL0146,2025,19-Feb-2025,Peshawar Zalmi,Islamabad United,Multan Cricket Stadium,Islamabad United,Field,172/6,129/6,Islamabad United,Player 34
-PSL0039,2022,14-Feb-2022,Multan Sultans,Quetta Gladiators,Pindi Cricket Stadium,Multan Sultans,Field,161/2,195/9,Quetta Gladiators,Player 15
-PSL0003,2021,12-Feb-2021,Quetta Gladiators,Karachi Kings,Rawalpindi Cricket Stadium,Quetta Gladiators,Bat,172/6,130/9,Karachi Kings,Player 7
-PSL0046,2022,21-Feb-2022,Multan Sultans,Peshawar Zalmi,Rawalpindi Cricket Stadium,Multan Sultans,Bat,133/5,113/2,,
-PSL0008,2021,2021-02-17,Islamabad United,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,Bat,181/10,142/9,Lahore Qalandars,Player 30
-PSL0065,2022,2022-03-12,Peshawar Zalmi,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,Bat,140/10,183/7,Peshawar Zalmi,Player 36
-PSL0011,2021,2021-02-20,Karachi Kings,multan sultans,Pindi Cricket Stadium,Multan Sultans,Field,194/9,176/5,Multan Sultans,Player 16
-PSL0048,2022,2022-02-23,Multan Sultans,Lahore Qalandars,"National Stadium, Karachi",Lahore Qalandars,Bat,218/6,140/9,Lahore Qalandars,Player 26
-PSL0029,2021,2021-03-10,Quetta Gladiators,Multan Sultans,Rawalpindi Cricket Stadium,Multan Sultans,Bat,204/2,149/4,Multan Sultans,Player 17
-PSL0022,2021,2021-03-03,Islamabad United,Karachi Kings,"National Stadium, Karachi",Islamabad United,Field,136/9,172/6,Karachi Kings,Player 8
-PSL0021,2021,02/03/2021,Quetta Gladiators,Multan Sultans,Rawalpindi Cricket Stadium,Quetta Gladiators,Bat,169/10,200/10,Multan Sultans,Player 17
-PSL0032,2021,13/03/2021,Islamabad United,Peshawar Zalmi,Pindi Cricket Stadium,Islamabad United,Bat,124/10,118/9,Peshawar Zalmi,Player 25
-PSL0087,2023,28-Feb-2023,Quetta Gladiators,Lahore Qalandars,"National Stadium, Karachi",Quetta Gladiators,Bat,219/6,160/5,Quetta Gladiators,Player 14
-PSL0064,2022,11/03/2022,Peshawar Zalmi,Quetta Gladiators,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Field,146/2,122/9,Quetta Gladiators,Player 37
-PSL0092,2023,2023-03-05,Quetta Gladiators,Lahore Qalandars,Rawalpindi Cricket Stadium,Lahore Qalandars,Bat,152/4,196/10,Quetta Gladiators,Player 30
-PSL0016,2021,25-Feb-2021,Lahore Qalandars,Quetta Gladiators,Rawalpindi Cricket Stadium,Quetta Gladiators,Field,151/7,125/8,Lahore Qalandars,Player 13
-PSL0108,2024,2024-02-15,Islamabad United,Peshawar Zalmi,"National Stadium, Karachi",Peshawar Zalmi,Field,204/9,141/8,Islamabad United,Player 21
-PSL0082,2023,23/02/2023,Lahore Qalandars,Karachi Kings,Rawalpindi Cricket Stadium,Lahore Qalandars,Bat,210/3,196/3,,
-PSL0126,2024,04/03/2024,Karachi Kings,Quetta Gladiators,"Gaddafi Stadium, Lahore",Karachi Kings,Field,160/10,146/5,Quetta Gladiators,Player 14
-PSL0149,2025,22-Feb-2025,Quetta Gladiators,Peshawar Zalmi,Pindi Cricket Stadium,Quetta Gladiators,Bat,169/2,176/9,Peshawar Zalmi,Player 3
-PSL0151,2025,2025-02-24,Multan Sultans,Quetta Gladiators,Multan Cricket Stadium,Multan Sultans,Bat,159/4,114/6,Multan Sultans,Player 28
-PSL0067,2022,2022-03-14,Islamabad United,Quetta Gladiators,Pindi Cricket Stadium,Quetta Gladiators,Field,187/10,116/4,Islamabad United,Player 25
-PSL0061,2022,08-Mar-2022,Multan Sultans,Karachi Kings,Rawalpindi Cricket Stadium,Multan Sultans,Field,,170/2,Karachi Kings,Player 1
-PSL0154,2025,27/02/2025,Lahore Qalandars,Multan Sultans,Rawalpindi Cricket Stadium,Lahore Qalandars,Field,,153/3,Multan Sultans,Player 23
-PSL0072,2023,13/02/2023,LAHORE QALANDARS,Karachi Kings,Rawalpindi Cricket Stadium,Lahore Qalandars,Bat,122/10,175/2,Karachi Kings,Player 20
-PSL0054,2022,01-Mar-2022,Peshawar Zalmi,Karachi Kings,"National Stadium, Karachi",Peshawar Zalmi,Bat,152/8,186/6,Karachi Kings,Player 2
-PSL0052,2022,2022-02-27,Lahore Qalandars,Peshawar Zalmi,Multan Cricket Stadium,Lahore Qalandars,Bat,206/6,115/9,Peshawar Zalmi,Player 24
-PSL0010,2021,2021-02-19,Peshawar Zalmi,Islamabad United,"Gaddafi Stadium, Lahore",Islamabad United,Bat,215/10,135/7,Islamabad United,Player 24
-PSL0162,2025,07/03/2025,Lahore Qalandars,Islamabad United,"Gaddafi Stadium, Lahore",Islamabad United,Bat,184/5,114/10,Lahore Qalandars,Player 33
-PSL0103,2024,10-Feb-2024,Karachi Kings,Multan Sultans,Pindi Cricket Stadium,Multan Sultans,Bat,183/2,129/10,Multan Sultans,Player 39
-PSL0015,2021,24-Feb-2021,Karachi Kings,Quetta Gladiators,Multan Cricket Stadium,Quetta Gladiators,Field,216/7,208/8,Quetta Gladiators,Player 24
-PSL0019,2021,28/02/2021,Peshawar Zalmi,Quetta Gladiators,"Gaddafi Stadium, Lahore",Quetta Gladiators,Bat,195/8,111/6,Peshawar Zalmi,Player 33
-PSL0060,2022,07/03/2022,Multan Sultans,Peshawar Zalmi,Rawalpindi Cricket Stadium,Multan Sultans,Bat,205/3,115/6,Peshawar Zalmi,Player 30
-PSL0099,2023,12/03/2023,Karachi Kings,Peshawar Zalmi,Rawalpindi Cricket Stadium,Peshawar Zalmi,Bat,144/3,112/9,Karachi Kings,Player 39
-PSL0094,2023,2023-03-07,Lahore Qalandars,Islamabad United,"National Stadium, Karachi",Islamabad United,Bat,202/3,126/7,Lahore Qalandars,Player 39
-PSL0144,2025,17/02/2025,Multan Sultans,Islamabad United,"Gaddafi Stadium, Lahore",Multan Sultans,Field,191/2,169/4,Multan Sultans,Player 38
-PSL0062,2022,2022-03-09,ISLAMABAD UNITED,Lahore Qalandars,Rawalpindi Cricket Stadium,Lahore Qalandars,Field,122/8,191/2,Lahore Qalandars,Player 10
-PSL0138,2025,11-Feb-2025,Peshawar Zalmi,Islamabad United,Multan Cricket Stadium,Islamabad United,Bat,198/6,193/8,,
-PSL0014,2021,23-Feb-2021,Peshawar Zalmi,Quetta Gladiators,"National Stadium, Karachi",Peshawar Zalmi,Bat,169/4,174/10,Quetta Gladiators,Player 10
-PSL0109,2024,16-Feb-2024,Lahore Qalandars,Multan Sultans,"National Stadium, Karachi",Lahore Qalandars,Field,186/3,126/9,Multan Sultans,Player 31
-PSL0156,2025,01/03/2025,Islamabad United,Karachi Kings,Multan Cricket Stadium,Karachi Kings,Bat,184/5,123/4,Islamabad United,Player 10
-PSL0116,2024,23/02/2024,Multan Sultans,Peshawar Zalmi,Pindi Cricket Stadium,Multan Sultans,Field,198/8,136/9,Multan Sultans,Player 13
-PSL0061,2022,08-Mar-2022,Multan Sultans,Karachi Kings,Rawalpindi Cricket Stadium,Multan Sultans,Field,,170/2,Karachi Kings,Player 1
-PSL0086,2023,2023-02-27,Quetta Gladiators,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,Field,150/2,176/3,Peshawar Zalmi,Player 17
-PSL0110,2024,2024-02-17,Peshawar Zalmi,Multan Sultans,Rawalpindi Cricket Stadium,Peshawar Zalmi,Bat,162/3,177/9,Peshawar Zalmi,Player 33
-PSL0049,2022,24/02/2022,Karachi Kings,Islamabad United,"National Stadium, Karachi",Karachi Kings,Bat,154/6,177/9,Karachi Kings,Player 39
-PSL0105,2024,2024-02-12,Islamabad United,Karachi Kings,"Gaddafi Stadium, Lahore",Karachi Kings,Field,176/5,147/8,Islamabad United,Player 23
-PSL0084,2023,2023-02-25,Multan Sultans,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,Bat,129/4,213/4,,
-PSL0137,2025,2025-02-10,LAHORE QALANDARS,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,Field,132/5,141/2,,
-PSL0134,2024,12-Mar-2024,Lahore Qalandars,Karachi Kings,"Gaddafi Stadium, Lahore",Karachi Kings,Bat,215/7,195/6,Karachi Kings,Player 9
-PSL0106,2024,13-Feb-2024,Islamabad United,Multan Sultans,"National Stadium, Karachi",Islamabad United,Field,129/3,169/3,Islamabad United,Player 3
-PSL0085,2023,2023-02-26,Lahore Qalandars,Peshawar Zalmi,Rawalpindi Cricket Stadium,Lahore Qalandars,Bat,167/6,160/3,Lahore Qalandars,Player 12
+ID,City,Date,Season,MatchNumber,Team1,Team2,Venue,TossWinner,TossDecision,SuperOver,WinningTeam,WonBy,Margin,method,Player_of_Match,Man_of_the_Match,Team1_Score,Team2_Score
+1312025,Multan,2021-03-08,2021,26,Peshawar Zalmi,Karachi Kings,Multan Cricket Stadium,Peshawar Zalmi,field,Y,Karachi Kings,Runs,70.0,,Player 32,Akif Javed,147/5,143/8
+1312052,Rawalpindi,2022-03-01,2022,19,Lahore Qalandars,Islamabad United,Rawalpindi Cricket Stadium,Lahore Qalandars,bat,N,Islamabad United,Runs,31.0,,Player 11,Azam Khan,172/6,144/8
+1312149,Rawalpindi,2025-02-24,2025,14,Islamabad United,Karachi Kings,Rawalpindi Cricket Stadium,Islamabad United,field,N,Karachi Kings,Runs,22.0,,Player 10,Colin Munro,137/3,178/9
+1312088,Lahore,2023-03-03,2023,21,Islamabad United,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,bat,N,Islamabad United,Runs,23.0,,Player 24,Sikandar Raza,152/5,148/7
+1312113,Karachi,2024-02-22,2024,12,Lahore Qalandars,Peshawar Zalmi,"National Stadium, Karachi",Peshawar Zalmi,bat,N,Lahore Qalandars,Runs,25.0,,Player 20,Mohammad Rizwan,137/3,190/5
+1312119,Lahore,2024-02-28,2024,18,Karachi Kings,Quetta Gladiators,"Gaddafi Stadium, Lahore",Karachi Kings,bat,N,Quetta Gladiators,Runs,82.0,,Player 33,Babar Azam,211/2,137/10
+1312001,Rawalpindi,2021-02-12,2021,2,Multan Sultans,Islamabad United,Pindi Cricket Stadium,Islamabad United,bat,N,Islamabad United,Runs,30.0,,Player 27,Zaman Khan,141/6,152/2
+1312023,Lahore,2021-03-06,2021,24,Peshawar Zalmi,Multan Sultans,"Gaddafi Stadium, Lahore",Multan Sultans,bat,N,Multan Sultans,Wickets,3.0,,Player 6,Azam Khan,220/5,131/2
+1312079,Rawalpindi,2023-02-22,2023,12,Islamabad United,Multan Sultans,Pindi Cricket Stadium,Multan Sultans,bat,N,Multan Sultans,Wickets,4.0,,Player 21,Tom Kohler-Cadmore,218/3,197/10
+1312121,Karachi,2024-03-01,2024,20,Multan Sultans,Karachi Kings,"National Stadium, Karachi",Multan Sultans,field,N,Karachi Kings,Runs,89.0,,Player 18,Sherfane Rutherford,169/6,168/10
+1312070,Rawalpindi,2023-02-13,2023,3,Peshawar Zalmi,Quetta Gladiators,Pindi Cricket Stadium,Peshawar Zalmi,bat,N,Peshawar Zalmi,Runs,52.0,,Player 22,Mohammad Nawaz,180/9,116/6
+1312004,Rawalpindi,2021-02-15,2021,5,Quetta Gladiators,Karachi Kings,Rawalpindi Cricket Stadium,Quetta Gladiators,bat,N,Karachi Kings,Wickets,6.0,,Player 1,Usman Khan,124/7,201/5
+1312040,Rawalpindi,2022-02-17,2022,7,Islamabad United,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,field,N,Peshawar Zalmi,Wickets,6.0,D/L,Player 35,Fakhar Zaman,150/6,120/8
+1312076,Lahore,2023-02-19,2023,9,Multan Sultans,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Multan Sultans,field,N,Peshawar Zalmi,Wickets,3.0,D/L,Player 15,Aamer Jamal,199/2,120/8
+1312103,Rawalpindi,2024-02-12,2024,2,Quetta Gladiators,Karachi Kings,Rawalpindi Cricket Stadium,Karachi Kings,bat,Y,Karachi Kings,Wickets,,,Player 5,Haris Rauf,124/3,130/5
+1312050,Multan,2022-02-27,2022,17,Karachi Kings,Lahore Qalandars,Multan Cricket Stadium,Lahore Qalandars,field,N,Karachi Kings,Wickets,4.0,,Player 1,Iftikhar Ahmed,178/6,147/9
+1312162,Multan,2025-03-09,2025,27,Islamabad United,Lahore Qalandars,Multan Cricket Stadium,Islamabad United,field,N,Lahore Qalandars,Wickets,4.0,,Player 3,David Willey,219/2,112/10
+1312168,Multan,2025-03-16,2025,Eliminator,Multan Sultans,Islamabad United,Multan Cricket Stadium,Islamabad United,field,Y,Islamabad United,Wickets,1.0,,Player 19,Babar Azam,130/3,128/6
+1312017,Karachi,2021-02-28,2021,18,Quetta Gladiators,Islamabad United,"National Stadium, Karachi",Islamabad United,bat,N,Islamabad United,Wickets,7.0,,Player 30,Naseem Shah,165/8,160/6
+1312165,Lahore,2025-03-12,2025,30,Quetta Gladiators,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Quetta Gladiators,field,N,Quetta Gladiators,Wickets,7.0,,Player 5,Abbas Afridi,156/3,190/8
+1312152,Karachi,2025-02-27,2025,17,Quetta Gladiators,Lahore Qalandars,"National Stadium, Karachi",Lahore Qalandars,field,N,Quetta Gladiators,Runs,34.0,,Player 18,David Willey,144/10,149/9
+1312003,Rawalpindi,2021-02-14,2021,4,Multan Sultans,Islamabad United,Rawalpindi Cricket Stadium,Multan Sultans,field,N,Islamabad United,Wickets,8.0,,Player 31,Colin Munro,153/10,155/3
+1312065,Rawalpindi,2022-03-18,2022,Qualifier 2,Islamabad United,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,bat,N,Peshawar Zalmi,Runs,60.0,,Player 29,Babar Azam,213/10,156/10
+1312057,Rawalpindi,2022-03-06,2022,24,Karachi Kings,Lahore Qalandars,Pindi Cricket Stadium,Lahore Qalandars,field,N,Lahore Qalandars,Wickets,4.0,,Player 22,Shadab Khan,213/4,203/7
+1312160,Lahore,2025-03-07,2025,25,Islamabad United,Karachi Kings,"Gaddafi Stadium, Lahore",Islamabad United,bat,N,Islamabad United,Runs,83.0,,Player 3,Mohammad Rizwan,162/8,160/6
+1312026,Lahore,2021-03-09,2021,27,Islamabad United,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,field,N,Peshawar Zalmi,Runs,90.0,,Player 25,Faheem Ashraf,211/6,205/3
+1312027,Rawalpindi,2021-03-10,2021,28,Lahore Qalandars,Multan Sultans,Pindi Cricket Stadium,Lahore Qalandars,field,N,Multan Sultans,Runs,73.0,,Player 33,Rovman Powell,145/2,110/9
+1312117,Karachi,2024-02-26,2024,16,Karachi Kings,Quetta Gladiators,"National Stadium, Karachi",Quetta Gladiators,field,N,Quetta Gladiators,Wickets,6.0,,Player 2,Tom Kohler-Cadmore,126/3,194/4
+1312132,Rawalpindi,2024-03-19,2024,Final,Karachi Kings,Lahore Qalandars,Pindi Cricket Stadium,Karachi Kings,field,N,Lahore Qalandars,Runs,30.0,,Player 14,Babar Azam,168/7,129/8
+1312146,Multan,2025-02-21,2025,11,Peshawar Zalmi,Quetta Gladiators,Multan Cricket Stadium,Quetta Gladiators,field,N,Quetta Gladiators,Runs,18.0,,Player 8,Mohammad Nawaz,135/2,124/3
+1312056,Rawalpindi,2022-03-05,2022,23,Quetta Gladiators,Islamabad United,Rawalpindi Cricket Stadium,Islamabad United,bat,N,Islamabad United,Runs,88.0,,Player 17,Saim Ayub,138/9,138/6
+1312030,Karachi,2021-03-20,2021,Final,Lahore Qalandars,Karachi Kings,"National Stadium, Karachi",Lahore Qalandars,field,N,Lahore Qalandars,Runs,26.0,,Player 5,Aamer Jamal,157/7,146/8
+1312128,Lahore,2024-03-08,2024,27,Karachi Kings,Quetta Gladiators,"Gaddafi Stadium, Lahore",Quetta Gladiators,bat,N,Karachi Kings,Wickets,5.0,,Player 38,Tom Kohler-Cadmore,175/8,200/5
+1312062,Karachi,2022-03-11,2022,29,Peshawar Zalmi,Karachi Kings,"National Stadium, Karachi",Karachi Kings,field,N,Peshawar Zalmi,Runs,39.0,,Player 14,Usman Khan,154/7,133/4
+1312127,Multan,2024-03-07,2024,26,Multan Sultans,Quetta Gladiators,Multan Cricket Stadium,Quetta Gladiators,field,N,Quetta Gladiators,Runs,59.0,,Player 31,Akif Javed,195/5,184/8
+1312147,Karachi,2025-02-22,2025,12,Quetta Gladiators,Peshawar Zalmi,"National Stadium, Karachi",Quetta Gladiators,bat,N,Peshawar Zalmi,Runs,49.0,,Player 18,Shaheen Afridi,122/6,119/10
+1312159,Lahore,2025-03-06,2025,24,Islamabad United,Quetta Gladiators,"Gaddafi Stadium, Lahore",Quetta Gladiators,field,N,Islamabad United,Wickets,2.0,,Player 14,Haris Rauf,165/9,150/9
+1312080,Lahore,2023-02-23,2023,13,Lahore Qalandars,Quetta Gladiators,"Gaddafi Stadium, Lahore",Quetta Gladiators,bat,N,Quetta Gladiators,Runs,64.0,,Player 18,Xavier Bartlett,196/3,158/9
+1312069,Rawalpindi,2023-02-12,2023,2,Karachi Kings,Quetta Gladiators,Rawalpindi Cricket Stadium,Quetta Gladiators,bat,N,Karachi Kings,Wickets,4.0,,Player 18,Shaheen Afridi,165/7,125/8
+1312097,Lahore,2023-03-12,2023,30,Peshawar Zalmi,Quetta Gladiators,"Gaddafi Stadium, Lahore",Peshawar Zalmi,bat,N,Peshawar Zalmi,Runs,88.0,,Player 25,Zaman Khan,164/9,137/6
+1312067,Lahore,2022-03-15,2022,Qualifier 1,Quetta Gladiators,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Quetta Gladiators,bat,N,Quetta Gladiators,Wickets,6.0,,Player 33,Usman Khan,160/6,146/7
+1312126,Karachi,2024-03-06,2024,25,Karachi Kings,Multan Sultans,"National Stadium, Karachi",Karachi Kings,field,N,Multan Sultans,Wickets,1.0,,Player 17,Sahibzada Farhan,185/3,199/10
+1312112,Karachi,2024-02-21,2024,11,Islamabad United,Karachi Kings,"National Stadium, Karachi",Karachi Kings,field,N,Karachi Kings,Wickets,6.0,,Player 8,Imad Wasim,153/9,151/9
+1312074,Karachi,2023-02-17,2023,7,Multan Sultans,Quetta Gladiators,"National Stadium, Karachi",Multan Sultans,field,N,Quetta Gladiators,Wickets,5.0,,Player 40,Abbas Afridi,217/6,160/4
+1312157,Multan,2025-03-04,2025,22,Quetta Gladiators,Lahore Qalandars,Multan Cricket Stadium,Quetta Gladiators,bat,N,Lahore Qalandars,Wickets,4.0,,Player 5,Haris Rauf,200/10,171/6
+1312000,Karachi,2021-02-11,2021,1,Islamabad United,Karachi Kings,"National Stadium, Karachi",Karachi Kings,bat,N,Karachi Kings,Wickets,7.0,,Player 21,Aamer Jamal,212/8,178/2
+1312044,Rawalpindi,2022-02-21,2022,11,Lahore Qalandars,Islamabad United,Pindi Cricket Stadium,Islamabad United,field,N,Lahore Qalandars,Wickets,8.0,,Player 9,Usman Khan,124/5,122/2
+1312094,Karachi,2023-03-09,2023,27,Quetta Gladiators,Karachi Kings,"National Stadium, Karachi",Quetta Gladiators,field,N,Karachi Kings,Wickets,6.0,,Player 30,Zaman Khan,161/8,145/8
+1312029,Rawalpindi,2021-03-12,2021,30,Islamabad United,Karachi Kings,Rawalpindi Cricket Stadium,Islamabad United,field,N,Islamabad United,Wickets,6.0,,Player 4,Akif Javed,193/10,209/2
+1312035,Rawalpindi,2022-02-12,2022,2,Lahore Qalandars,Multan Sultans,Rawalpindi Cricket Stadium,Multan Sultans,bat,N,Multan Sultans,Runs,28.0,,Player 15,James Vince,150/4,140/8
+1312049,Multan,2022-02-26,2022,16,Islamabad United,Multan Sultans,Multan Cricket Stadium,Islamabad United,field,N,Multan Sultans,Wickets,8.0,,Player 16,Usman Khan,143/2,189/9
+1312130,Rawalpindi,2024-03-10,2024,29,Lahore Qalandars,Peshawar Zalmi,Rawalpindi Cricket Stadium,Peshawar Zalmi,field,N,Peshawar Zalmi,Wickets,5.0,,Player 15,Zaman Khan,184/7,208/10
+1312114,Rawalpindi,2024-02-23,2024,13,Islamabad United,Quetta Gladiators,Pindi Cricket Stadium,Quetta Gladiators,field,N,Islamabad United,Runs,6.0,,Player 25,Azam Khan,182/10,215/6
+1312012,Rawalpindi,2021-02-23,2021,13,Lahore Qalandars,Peshawar Zalmi,Rawalpindi Cricket Stadium,Peshawar Zalmi,field,N,Lahore Qalandars,Runs,79.0,,Player 21,Sahibzada Farhan,120/9,158/10
+1312022,Karachi,2021-03-05,2021,23,Quetta Gladiators,Multan Sultans,"National Stadium, Karachi",Quetta Gladiators,bat,N,Quetta Gladiators,Runs,89.0,,Player 39,Hasan Ali,151/2,132/6
+1312134,Rawalpindi,2024-03-15,2024,Eliminator,Lahore Qalandars,Quetta Gladiators,Rawalpindi Cricket Stadium,Lahore Qalandars,bat,N,Lahore Qalandars,Wickets,6.0,,Player 2,Zaman Khan,215/10,156/6
+1312110,Rawalpindi,2024-02-19,2024,9,Karachi Kings,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,bat,N,Peshawar Zalmi,Runs,49.0,,Player 8,Mohammad Rizwan,145/3,171/9
+1312034,Multan,2022-02-11,2022,1,Multan Sultans,Quetta Gladiators,Multan Cricket Stadium,Multan Sultans,bat,N,Quetta Gladiators,Runs,68.0,,Player 27,Sikandar Raza,129/3,184/8
+1312008,Rawalpindi,2021-02-19,2021,9,Islamabad United,Peshawar Zalmi,Pindi Cricket Stadium,Islamabad United,bat,N,Islamabad United,Wickets,4.0,,Player 9,Rovman Powell,193/6,179/10
+1312077,Lahore,2023-02-20,2023,10,Quetta Gladiators,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Quetta Gladiators,bat,N,Peshawar Zalmi,Runs,68.0,,Player 27,Imad Wasim,171/4,147/2
+1312099,Multan,2023-03-18,2023,Qualifier 2,Quetta Gladiators,Islamabad United,Multan Cricket Stadium,Quetta Gladiators,bat,N,Quetta Gladiators,Wickets,8.0,,Player 16,Faheem Ashraf,152/5,169/10
+1312164,Multan,2025-03-11,2025,29,Karachi Kings,Quetta Gladiators,Multan Cricket Stadium,Quetta Gladiators,field,N,Karachi Kings,Runs,,,Player 33,Rovman Powell,160/3,175/10
+1312123,Multan,2024-03-03,2024,22,Peshawar Zalmi,Karachi Kings,Multan Cricket Stadium,Peshawar Zalmi,bat,N,Peshawar Zalmi,Runs,39.0,,Player 32,Zaman Khan,219/2,142/7
+1312124,Karachi,2024-03-04,2024,23,Quetta Gladiators,Lahore Qalandars,"National Stadium, Karachi",Lahore Qalandars,bat,Y,Quetta Gladiators,Wickets,3.0,,Player 21,Xavier Bartlett,216/6,206/10
+1312033,Multan,2021-03-15,2021,Qualifier 1,Multan Sultans,Lahore Qalandars,Multan Cricket Stadium,Lahore Qalandars,field,N,Lahore Qalandars,Wickets,4.0,,Player 11,David Willey,168/8,197/6
+1312092,Multan,2023-03-07,2023,25,Islamabad United,Quetta Gladiators,Multan Cricket Stadium,Quetta Gladiators,field,N,Islamabad United,Wickets,4.0,,Player 34,Sahibzada Farhan,219/4,175/4
+1312041,Karachi,2022-02-18,2022,8,Islamabad United,Peshawar Zalmi,"National Stadium, Karachi",Islamabad United,bat,N,Peshawar Zalmi,Wickets,2.0,,Player 21,Saim Ayub,166/8,212/9
+1312116,Rawalpindi,2024-02-25,2024,15,Quetta Gladiators,Karachi Kings,Pindi Cricket Stadium,Quetta Gladiators,field,N,Quetta Gladiators,Runs,,,Player 32,Imad Wasim,219/2,183/6
+1312120,Multan,2024-02-29,2024,19,Karachi Kings,Multan Sultans,Multan Cricket Stadium,Karachi Kings,bat,N,Multan Sultans,Runs,27.0,,Player 14,Imad Wasim,179/2,209/9
+1312101,Lahore,2023-03-15,2023,Qualifier 1,Islamabad United,Multan Sultans,"Gaddafi Stadium, Lahore",Multan Sultans,field,N,Multan Sultans,Runs,45.0,,Player 25,Xavier Bartlett,191/6,191/3
+1312043,Lahore,2022-02-20,2022,10,Multan Sultans,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,bat,N,Lahore Qalandars,Wickets,2.0,,Player 14,Imad Wasim,152/6,203/4
+1312058,Rawalpindi,2022-03-07,2022,25,Quetta Gladiators,Peshawar Zalmi,Rawalpindi Cricket Stadium,Quetta Gladiators,field,N,Quetta Gladiators,Runs,30.0,,Player 1,Khushdil Shah,166/4,142/3
+1312138,Multan,2025-02-13,2025,3,Lahore Qalandars,Islamabad United,Multan Cricket Stadium,Lahore Qalandars,bat,N,Islamabad United,Wickets,8.0,,Player 30,Hasan Ali,136/10,145/10
+1312169,Multan,2025-03-15,2025,Qualifier 1,Karachi Kings,Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,field,N,Karachi Kings,Runs,31.0,,Player 36,Sahibzada Farhan,174/4,214/8
+1312106,Lahore,2024-02-15,2024,5,Quetta Gladiators,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,bat,N,Quetta Gladiators,Wickets,1.0,,Player 29,Sikandar Raza,210/3,171/10
+1312151,Rawalpindi,2025-02-26,2025,16,Islamabad United,Multan Sultans,Rawalpindi Cricket Stadium,Islamabad United,field,N,Multan Sultans,Wickets,8.0,,Player 36,Mohammad Nawaz,174/2,210/5
+1312118,Multan,2024-02-27,2024,17,Karachi Kings,Quetta Gladiators,Multan Cricket Stadium,Karachi Kings,field,N,Quetta Gladiators,Wickets,2.0,,Player 11,Haris Rauf,138/5,120/2
+1312072,Rawalpindi,2023-02-15,2023,5,Karachi Kings,Islamabad United,Pindi Cricket Stadium,Karachi Kings,bat,N,Islamabad United,Wickets,2.0,D/L,Player 8,Zaman Khan,216/9,185/7
+1312156,Karachi,2025-03-03,2025,21,Lahore Qalandars,Quetta Gladiators,"National Stadium, Karachi",Lahore Qalandars,bat,N,Lahore Qalandars,Runs,40.0,,Player 11,Shadab Khan,188/7,208/4
+1312011,Lahore,2021-02-22,2021,12,Quetta Gladiators,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Quetta Gladiators,bat,N,Quetta Gladiators,Runs,34.0,,Player 38,Mohammad Rizwan,187/7,196/3
+1312075,Multan,2023-02-18,2023,8,Peshawar Zalmi,Islamabad United,Multan Cricket Stadium,Peshawar Zalmi,field,N,Islamabad United,Wickets,3.0,,Player 25,Shadab Khan,188/10,138/8
+1312096,Lahore,2023-03-11,2023,29,Lahore Qalandars,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,bat,N,Lahore Qalandars,Wickets,1.0,,Player 25,Tom Kohler-Cadmore,153/6,183/7
+1312111,Lahore,2024-02-20,2024,10,Karachi Kings,Quetta Gladiators,"Gaddafi Stadium, Lahore",Karachi Kings,field,N,Karachi Kings,Runs,50.0,,Player 35,Shaheen Afridi,204/6,147/4
+1312005,Rawalpindi,2021-02-16,2021,6,Quetta Gladiators,Peshawar Zalmi,Rawalpindi Cricket Stadium,Peshawar Zalmi,bat,N,Quetta Gladiators,Wickets,8.0,,Player 32,Zaman Khan,121/2,181/3
+1312129,Lahore,2024-03-09,2024,28,Karachi Kings,Quetta Gladiators,"Gaddafi Stadium, Lahore",Karachi Kings,field,N,Quetta Gladiators,Wickets,7.0,,Player 33,Iftikhar Ahmed,218/10,124/7
+1312167,Rawalpindi,2025-03-18,2025,Qualifier 2,Islamabad United,Peshawar Zalmi,Rawalpindi Cricket Stadium,Islamabad United,field,N,Peshawar Zalmi,Wickets,8.0,,Player 30,Zaman Khan,139/9,160/7
+1312024,Rawalpindi,2021-03-07,2021,25,Quetta Gladiators,Islamabad United,Pindi Cricket Stadium,Islamabad United,bat,N,Quetta Gladiators,Runs,41.0,,Player 23,Iftikhar Ahmed,204/2,171/5
+1312087,Multan,2023-03-02,2023,20,Karachi Kings,Islamabad United,Multan Cricket Stadium,Islamabad United,bat,N,Islamabad United,Wickets,7.0,,Player 35,Sikandar Raza,198/5,202/2
+1312131,Karachi,2024-03-11,2024,30,Multan Sultans,Lahore Qalandars,"National Stadium, Karachi",Lahore Qalandars,field,N,Multan Sultans,Wickets,3.0,,Player 19,Zaman Khan,121/8,148/3
+1312090,Multan,2023-03-05,2023,23,Islamabad United,Quetta Gladiators,Multan Cricket Stadium,Islamabad United,field,N,Islamabad United,Wickets,8.0,,Player 24,Hasan Ali,211/3,178/10
+1312055,Multan,2022-03-04,2022,22,Islamabad United,Multan Sultans,Multan Cricket Stadium,Islamabad United,bat,N,Islamabad United,Runs,73.0,,Player 23,Shadab Khan,137/7,143/3
+1312078,Karachi,2023-02-21,2023,11,Karachi Kings,Multan Sultans,"National Stadium, Karachi",Karachi Kings,bat,N,Multan Sultans,Wickets,8.0,,Player 22,Usman Khan,187/4,162/9
+1312016,Rawalpindi,2021-02-27,2021,17,Islamabad United,Quetta Gladiators,Rawalpindi Cricket Stadium,Quetta Gladiators,bat,N,Quetta Gladiators,Runs,86.0,,Player 19,Colin Munro,158/7,140/5
+1312100,Rawalpindi,2023-03-16,2023,Eliminator,Quetta Gladiators,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,bat,N,Quetta Gladiators,Wickets,2.0,,Player 9,Azam Khan,150/9,202/10
+1312166,Karachi,2025-03-20,2025,Final,Karachi Kings,Peshawar Zalmi,"National Stadium, Karachi",Karachi Kings,bat,N,Karachi Kings,Runs,9.0,,Player 8,Khushdil Shah,145/5,196/6
+1312144,Rawalpindi,2025-02-19,2025,9,Multan Sultans,Karachi Kings,Pindi Cricket Stadium,Multan Sultans,field,N,Karachi Kings,Wickets,6.0,,Player 36,Azam Khan,188/10,181/4
+1312019,Rawalpindi,2021-03-02,2021,20,Multan Sultans,Lahore Qalandars,Pindi Cricket Stadium,Multan Sultans,field,N,Lahore Qalandars,Runs,37.0,,Player 16,Colin Munro,162/7,182/7
+1312042,Rawalpindi,2022-02-19,2022,9,Islamabad United,Lahore Qalandars,Pindi Cricket Stadium,Islamabad United,bat,N,Islamabad United,Wickets,4.0,,Player 11,Akif Javed,121/2,138/9
+1312140,Rawalpindi,2025-02-15,2025,5,Islamabad United,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,bat,Y,Islamabad United,Wickets,3.0,,Player 4,David Willey,139/8,136/4
+1312139,Karachi,2025-02-14,2025,4,Islamabad United,Lahore Qalandars,"National Stadium, Karachi",Lahore Qalandars,bat,N,Lahore Qalandars,Wickets,1.0,,Player 23,Khushdil Shah,210/8,177/9
+1312154,Lahore,2025-03-01,2025,19,Lahore Qalandars,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,bat,N,Lahore Qalandars,Runs,41.0,,Player 24,Haris Rauf,128/3,189/7
+1312073,Multan,2023-02-16,2023,6,Peshawar Zalmi,Lahore Qalandars,Multan Cricket Stadium,Lahore Qalandars,bat,Y,Peshawar Zalmi,Wickets,8.0,,Player 38,Iftikhar Ahmed,142/6,212/9
+1312032,Rawalpindi,2021-03-16,2021,Eliminator,Karachi Kings,Peshawar Zalmi,Rawalpindi Cricket Stadium,Peshawar Zalmi,bat,N,Karachi Kings,Runs,9.0,,Player 25,Fakhar Zaman,167/4,135/3
+1312120,Multan,2024-02-29,2024,19,Karachi Kings,Multan Sultans,Multan Cricket Stadium,Karachi Kings,bat,N,Multan Sultans,Runs,27.0,,Player 14,Shadab Khan,179/2,209/9
+1312006,Lahore,2021-02-17,2021,7,Multan Sultans,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Peshawar Zalmi,bat,N,Multan Sultans,Runs,,,Player 31,Abbas Afridi,198/5,210/8
+1312046,Karachi,2022-02-23,2022,13,Islamabad United,Lahore Qalandars,"National Stadium, Karachi",Lahore Qalandars,field,N,Lahore Qalandars,Wickets,7.0,,Player 40,Xavier Bartlett,162/5,208/9
+1312039,Lahore,2022-02-16,2022,6,Karachi Kings,Peshawar Zalmi,"Gaddafi Stadium, Lahore",Karachi Kings,field,N,Peshawar Zalmi,Wickets,5.0,,Player 39,Shadab Khan,166/3,214/7
+1312010,Multan,2021-02-21,2021,11,Islamabad United,Multan Sultans,Multan Cricket Stadium,Islamabad United,bat,N,Multan Sultans,Runs,10.0,,Player 37,Faheem Ashraf,197/3,170/6
+1312054,Karachi,2022-03-03,2022,21,Multan Sultans,Karachi Kings,"National Stadium, Karachi",Karachi Kings,bat,N,Karachi Kings,Runs,51.0,,Player 6,Xavier Bartlett,203/7,208/10
+1312122,Rawalpindi,2024-03-02,2024,21,Karachi Kings,Quetta Gladiators,Rawalpindi Cricket Stadium,Karachi Kings,field,N,Quetta Gladiators,Wickets,6.0,,Player 17,Sikandar Raza,120/5,118/4
+1312082,Multan,2023-02-25,2023,15,Karachi Kings,Lahore Qalandars,Multan Cricket Stadium,Karachi Kings,field,N,Lahore Qalandars,Wickets,7.0,,Player 14,Rovman Powell,132/9,165/9
+1312142,Lahore,2025-02-17,2025,7,Peshawar Zalmi,Islamabad United,"Gaddafi Stadium, Lahore",Peshawar Zalmi,field,N,Peshawar Zalmi,Runs,65.0,,Player 4,Naseem Shah,154/6,177/9
+1312158,Lahore,2025-03-05,2025,23,Peshawar Zalmi,Islamabad United,"Gaddafi Stadium, Lahore",Peshawar Zalmi,field,N,Peshawar Zalmi,Runs,7.0,,Player 3,Hasan Ali,169/3,204/7
+1312037,Multan,2022-02-14,2022,4,Karachi Kings,Quetta Gladiators,Multan Cricket Stadium,Quetta Gladiators,bat,N,Quetta Gladiators,Wickets,1.0,,Player 9,Khushdil Shah,134/4,194/8
+1312068,Rawalpindi,2023-02-11,2023,1,Peshawar Zalmi,Quetta Gladiators,Rawalpindi Cricket Stadium,Peshawar Zalmi,bat,Y,Peshawar Zalmi,Wickets,8.0,,Player 27,Fakhar Zaman,165/5,154/9
+1312135,Rawalpindi,2024-03-14,2024,Qualifier 1,Karachi Kings,Peshawar Zalmi,Pindi Cricket Stadium,Karachi Kings,field,N,Karachi Kings,Wickets,4.0,,Player 14,Aamer Jamal,211/9,175/10
+1312141,Lahore,2025-02-16,2025,6,Karachi Kings,Quetta Gladiators,"Gaddafi Stadium, Lahore",Karachi Kings,bat,Y,Karachi Kings,Wickets,2.0,,Player 19,Zaman Khan,141/6,140/9
+1312163,Lahore,2025-03-10,2025,28,Multan Sultans,Lahore Qalandars,"Gaddafi Stadium, Lahore",Lahore Qalandars,bat,N,Multan Sultans,Wickets,3.0,,Player 9,Shadab Khan,138/5,180/7
+1312089,Rawalpindi,2023-03-04,2023,22,Peshawar Zalmi,Quetta Gladiators,Rawalpindi Cricket Stadium,Quetta Gladiators,bat,N,Quetta Gladiators,Wickets,6.0,,Player 30,Sherfane Rutherford,183/6,213/6
+1312036,Lahore,2022-02-13,2022,3,Multan Sultans,Islamabad United,"Gaddafi Stadium, Lahore",Islamabad United,field,N,Multan Sultans,Runs,58.0,,Player 39,Imad Wasim,148/6,162/3
+1312095,Rawalpindi,2023-03-10,2023,28,Karachi Kings,Islamabad United,Pindi Cricket Stadium,Islamabad United,bat,N,Karachi Kings,Runs,48.0,,Player 13,David Willey,220/2,211/6
+1312145,Rawalpindi,2025-02-20,2025,10,Lahore Qalandars,Multan Sultans,Rawalpindi Cricket Stadium,Multan Sultans,bat,N,Lahore Qalandars,Wickets,1.0,,Player 18,Shaheen Afridi,145/10,191/9
+1312038,Multan,2022-02-15,2022,5,Karachi Kings,Quetta Gladiators,Multan Cricket Stadium,Karachi Kings,field,N,Karachi Kings,Wickets,3.0,,Player 32,Shaheen Afridi,150/8,177/2
+1312002,Karachi,2021-02-13,2021,3,Lahore Qalandars,Quetta Gladiators,"National Stadium, Karachi",Lahore Qalandars,field,N,Lahore Qalandars,Wickets,4.0,,Player 9,Saim Ayub,209/8,215/9
+1312045,Rawalpindi,2022-02-22,2022,12,Peshawar Zalmi,Karachi Kings,Pindi Cricket Stadium,Karachi Kings,bat,N,Karachi Kings,Runs,5.0,,Player 38,Tom Kohler-Cadmore,134/8,
+1312007,Rawalpindi,2021-02-18,2021,8,Lahore Qalandars,Peshawar Zalmi,Pindi Cricket Stadium,Peshawar Zalmi,field,N,Lahore Qalandars,Runs,12.0,,Player 4,Sherfane Rutherford,203/6,205/7
+1312064,Rawalpindi,2022-03-20,2022,Final,Quetta Gladiators,Peshawar Zalmi,Rawalpindi Cricket Stadium,Quetta Gladiators,field,N,Quetta Gladiators,Runs,37.0,,Player 26,Babar Azam,212/4,184/3
+1312010,Multan,2021-02-21,2021,11,Islamabad United,Multan Sultans,Multan Cricket Stadium,Islamabad United,bat,N,Multan Sultans,Runs,10.0,,Player 37,Imad Wasim,197/3,170/6
+1312047,Karachi,2022-02-24,2022,14,Peshawar Zalmi,Islamabad United,"National Stadium, Karachi",Islamabad United,bat,N,Peshawar Zalmi,Wickets,1.0,,Player 20,Xavier Bartlett,159/8,161/8
+1312028,Rawalpindi,2021-03-11,2021,29,Peshawar Zalmi,Islamabad United,Rawalpindi Cricket Stadium,Islamabad United,bat,N,Islamabad United,Runs,53.0,,Player 24,Naseem Shah,207/5,
+1312021,Rawalpindi,2021-03-04,2021,22,Lahore Qalandars,Multan Sultans,Pindi Cricket Stadium,Multan Sultans,field,N,Multan Sultans,Runs,11.0,,Player 13,Sahibzada Farhan,215/7,
+1312020,Karachi,2021-03-03,2021,21,Multan Sultans,Karachi Kings,"National Stadium, Karachi",Karachi Kings,bat,N,Multan Sultans,Wickets,5.0,,Player 22,Babar Azam,155/5,193/8
+1312031,Rawalpindi,2021-03-18,2021,Qualifier 2,Karachi Kings,Multan Sultans,Rawalpindi Cricket Stadium,Karachi Kings,bat,N,Karachi Kings,Runs,23.0,,Player 14,Naseem Shah,216/6,204/8
+1312086,Multan,2023-03-01,2023,19,Karachi Kings,Quetta Gladiators,Multan Cricket Stadium,Karachi Kings,field,N,Karachi Kings,Wickets,7.0,,Player 32,Xavier Bartlett,181/2,115/3
+1312063,Rawalpindi,2022-03-12,2022,30,Quetta Gladiators,Karachi Kings,Rawalpindi Cricket Stadium,Karachi Kings,bat,N,Quetta Gladiators,Runs,53.0,,Player 36,Aamer Jamal,160/7,201/5
+1312091,Rawalpindi,2023-03-06,2023,24,Quetta Gladiators,Islamabad United,Rawalpindi Cricket Stadium,Quetta Gladiators,bat,N,Islamabad United,Wickets,3.0,,Player 6,Shaheen Afridi,183/6,143/10
+1312015,Rawalpindi,2021-02-26,2021,16,Islamabad United,Peshawar Zalmi,Pindi Cricket Stadium,Islamabad United,field,N,Peshawar Zalmi,Wickets,4.0,,Player 25,Khushdil Shah,187/6,144/9
+1312107,Multan,2024-02-16,2024,6,Lahore Qalandars,Multan Sultans,Multan Cricket Stadium,Multan Sultans,bat,N,Multan Sultans,Wickets,5.0,,Player 13,David Willey,219/6,165/5
+1312081,Rawalpindi,2023-02-24,2023,14,Peshawar Zalmi,Karachi Kings,Pindi Cricket Stadium,Peshawar Zalmi,bat,N,Karachi Kings,Wickets,2.0,,Player 31,Aamer Jamal,170/7,159/10
+1312125,Rawalpindi,2024-03-05,2024,24,Peshawar Zalmi,Quetta Gladiators,Rawalpindi Cricket Stadium,Peshawar Zalmi,bat,N,Peshawar Zalmi,Runs,7.0,,Player 25,Mohammad Rizwan,136/3,212/7
+1312148,Lahore,2025-02-23,2025,13,Karachi Kings,Islamabad United,"Gaddafi Stadium, Lahore",Karachi Kings,field,N,Islamabad United,Runs,19.0,,Player 26,Usman Khan,128/6,132/10
+1312150,Multan,2025-02-25,2025,15,Multan Sultans,Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,bat,N,Multan Sultans,Runs,42.0,,Player 28,Babar Azam,130/3,114/6
+1312066,Multan,2022-03-16,2022,Eliminator,Islamabad United,Karachi Kings,Multan Cricket Stadium,Islamabad United,field,N,Islamabad United,Wickets,3.0,,Player 28,Xavier Bartlett,204/8,131/9
+1312060,Multan,2022-03-09,2022,27,Multan Sultans,Karachi Kings,Multan Cricket Stadium,Karachi Kings,field,N,Karachi Kings,Wickets,1.0,,Player 9,Sherfane Rutherford,216/4,117/5
+1312153,Karachi,2025-02-28,2025,18,Peshawar Zalmi,Islamabad United,"National Stadium, Karachi",Islamabad United,bat,N,Peshawar Zalmi,Wickets,8.0,D/L,Player 26,Rovman Powell,120/8,125/2
+1312071,Multan,2023-02-14,2023,4,Karachi Kings,Peshawar Zalmi,Multan Cricket Stadium,Peshawar Zalmi,field,N,Karachi Kings,Runs,87.0,,Player 8,Haris Rauf,200/5,199/3
+1312053,Lahore,2022-03-02,2022,20,Peshawar Zalmi,Lahore Qalandars,"Gaddafi Stadium, Lahore",Peshawar Zalmi,bat,N,Lahore Qalandars,Runs,84.0,,Player 21,Shaheen Afridi,201/9,159/8
+1312051,Karachi,2022-02-28,2022,18,Lahore Qalandars,Islamabad United,"National Stadium, Karachi",Islamabad United,field,N,Islamabad United,Runs,83.0,,Player 5,Mohammad Rizwan,160/6,160/3
+1312009,Multan,2021-02-20,2021,10,Multan Sultans,Islamabad United,Multan Cricket Stadium,Islamabad United,bat,N,Multan Sultans,Runs,82.0,,Player 20,Iftikhar Ahmed,129/5,132/3
+1312161,Multan,2025-03-08,2025,26,Peshawar Zalmi,Islamabad United,Multan Cricket Stadium,Peshawar Zalmi,bat,N,Islamabad United,Wickets,2.0,,Player 29,David Willey,,214/3
+1312102,Rawalpindi,2024-02-11,2024,1,Peshawar Zalmi,Quetta Gladiators,Pindi Cricket Stadium,Peshawar Zalmi,field,N,Quetta Gladiators,Runs,60.0,,Player 26,Khushdil Shah,133/2,146/8
+1312014,Rawalpindi,2021-02-25,2021,15,Quetta Gladiators,Islamabad United,Rawalpindi Cricket Stadium,Islamabad United,bat,N,Islamabad United,Runs,52.0,,Player 40,Haris Rauf,210/4,146/7
+1312018,Rawalpindi,2021-03-01,2021,19,Lahore Qalandars,Islamabad United,Pindi Cricket Stadium,Lahore Qalandars,field,N,Islamabad United,Runs,80.0,,Player 24,Akif Javed,145/3,188/3
+1312059,Rawalpindi,2022-03-08,2022,26,Lahore Qalandars,Islamabad United,Rawalpindi Cricket Stadium,Lahore Qalandars,field,N,Islamabad United,Runs,,,Player 15,David Willey,175/2,175/3
+1312098,Karachi,2023-03-20,2023,Final,Multan Sultans,Quetta Gladiators,"National Stadium, Karachi",Multan Sultans,field,N,Multan Sultans,Runs,47.0,,Player 17,Azam Khan,218/4,124/3
+1312093,Rawalpindi,2023-03-08,2023,26,Quetta Gladiators,Islamabad United,Rawalpindi Cricket Stadium,Quetta Gladiators,field,N,Islamabad United,Wickets,3.0,,Player 40,Haris Rauf,186/4,181/9
+1312143,Rawalpindi,2025-02-18,2025,8,Lahore Qalandars,Karachi Kings,Pindi Cricket Stadium,Karachi Kings,bat,N,Lahore Qalandars,Runs,76.0,,Player 2,Mohammad Rizwan,155/10,162/5
+1312061,Rawalpindi,2022-03-10,2022,28,Multan Sultans,Islamabad United,Rawalpindi Cricket Stadium,Multan Sultans,field,N,Multan Sultans,Wickets,3.0,D/L,Player 12,Shadab Khan,195/3,145/3
+1312137,Multan,2025-02-12,2025,2,Lahore Qalandars,Multan Sultans,Multan Cricket Stadium,Multan Sultans,field,N,Multan Sultans,Runs,44.0,,Player 30,Khushdil Shah,143/5,129/6
+1312013,Lahore,2021-02-24,2021,14,Multan Sultans,Lahore Qalandars,"Gaddafi Stadium, Lahore",Multan Sultans,bat,N,Lahore Qalandars,Runs,43.0,,Player 16,Mohammad Nawaz,190/5,156/9
+1312108,Multan,2024-02-17,2024,7,Lahore Qalandars,Peshawar Zalmi,Multan Cricket Stadium,Lahore Qalandars,bat,N,Lahore Qalandars,Wickets,1.0,,Player 11,Saim Ayub,163/7,122/5
+1312155,Multan,2025-03-02,2025,20,Lahore Qalandars,Islamabad United,Multan Cricket Stadium,Lahore Qalandars,bat,N,Lahore Qalandars,Wickets,8.0,,Player 24,Imad Wasim,146/2,122/9
+1312115,Rawalpindi,2024-02-24,2024,14,Multan Sultans,Quetta Gladiators,Pindi Cricket Stadium,Quetta Gladiators,field,N,Multan Sultans,Wickets,,,Player 8,Faheem Ashraf,153/5,185/8
+1312060,Multan,2022-03-09,2022,27,Multan Sultans,Karachi Kings,Multan Cricket Stadium,Karachi Kings,field,N,Karachi Kings,Wickets,1.0,,Player 9,Khushdil Shah,216/4,117/5
+1312085,Multan,2023-02-28,2023,18,Islamabad United,Quetta Gladiators,Multan Cricket Stadium,Islamabad United,bat,N,Quetta Gladiators,Wickets,5.0,,Player 6,Khushdil Shah,207/9,135/7
+1312109,Rawalpindi,2024-02-18,2024,8,Karachi Kings,Islamabad United,Pindi Cricket Stadium,Islamabad United,field,N,Karachi Kings,Wickets,4.0,,Player 1,Sikandar Raza,155/5,195/4
+1312048,Rawalpindi,2022-02-25,2022,15,Karachi Kings,Peshawar Zalmi,Rawalpindi Cricket Stadium,Peshawar Zalmi,bat,N,Karachi Kings,Runs,86.0,,Player 14,Naseem Shah,154/5,143/5
+1312104,Rawalpindi,2024-02-13,2024,3,Lahore Qalandars,Islamabad United,Pindi Cricket Stadium,Islamabad United,field,N,Lahore Qalandars,Wickets,,,Player 18,Iftikhar Ahmed,173/6,212/9
+1312083,Rawalpindi,2023-02-26,2023,16,Quetta Gladiators,Multan Sultans,Pindi Cricket Stadium,Multan Sultans,field,N,Multan Sultans,Wickets,5.0,,Player 3,Shadab Khan,169/3,115/4
+1312136,Rawalpindi,2025-02-11,2025,1,Multan Sultans,Quetta Gladiators,Pindi Cricket Stadium,Multan Sultans,field,N,Multan Sultans,Runs,51.0,,Player 31,Tom Kohler-Cadmore,142/9,191/4
+1312133,Rawalpindi,2024-03-17,2024,Qualifier 2,Lahore Qalandars,Peshawar Zalmi,Rawalpindi Cricket Stadium,Lahore Qalandars,field,N,Lahore Qalandars,Runs,22.0,,Player 5,Imad Wasim,135/6,183/4
+1312105,Multan,2024-02-14,2024,4,Multan Sultans,Peshawar Zalmi,Multan Cricket Stadium,Multan Sultans,field,N,Peshawar Zalmi,Wickets,8.0,,Player 28,Colin Munro,206/3,179/2
+1312084,Rawalpindi,2023-02-27,2023,17,Lahore Qalandars,Peshawar Zalmi,Rawalpindi Cricket Stadium,Peshawar Zalmi,field,N,Lahore Qalandars,Wickets,2.0,,Player 12,Babar Azam,133/4,151/6
