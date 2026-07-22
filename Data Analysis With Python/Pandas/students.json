@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "STU101",
+        "name": "Noman",
+        "university": "UET Taxila",
+        "stipend": 25000
+    },
+    {
+        "student_id": "STU102",
+        "name": "Salman",
+        "university": "UET Taxila",
+        "stipend": 20000
+    },
+    {
+        "student_id": "STU103",
+        "name": "Ahmed",
+        "university": "NUST",
+        "stipend": null
+    }
+]
