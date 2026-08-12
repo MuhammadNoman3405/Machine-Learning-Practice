@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Data Form</title>
+</head>
+
+<body>
+
+    <h2>Student Practice Form</h2>
+
+    <!-- Form Submit hone par Flask ke '/submission' route par data bheje ga -->
+    <form action="/openpage" method="POST">
+
+        <!-- Text Input -->
+        <label for="name">Student Name:</label><br>
+        <input type="text" id="name" name="student_name" placeholder="Enter your name" required><br><br>
+
+        <!-- Number Input -->
+        <label for="marks">Marks (Out of 100):</label><br>
+        <input type="number" id="marks" name="marks" min="0" max="100" value="0"><br><br>
+
+        <!-- Dropdown Selection -->
+        <label for="subject">Select Subject:</label><br>
+        <select id="subject" name="subject">
+            <option value="python">Python</option>
+            <option value="datascience">Data Science</option>
+            <option value="machinelearning">Machine Learning</option>
+        </select><br><br>
+
+        <!-- Radio Buttons -->
+        <label>Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="Male">
+        <label for="male">Male</label><br>
+        <input type="radio" id="female" name="gender" value="Female">
+        <label for="female">Female</label><br><br>
+
+        <!-- Submit Button -->
+        <input type="submit" value="Submit Form">
+
+    </form>
+
+</body>
+
+</html>
