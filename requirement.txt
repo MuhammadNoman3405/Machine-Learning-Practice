@@ -1,1 +1,4 @@
 flask
+memory_profiler
+streamlit
+scikit-learn
